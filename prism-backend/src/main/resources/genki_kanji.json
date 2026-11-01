@@ -1,0 +1,2690 @@
+[
+  {
+    "lesson": 3,
+    "title": "GENKI - Lesson 3 Kanji",
+    "description": "まいにちのせいかつ - Daily Life",
+    "folder": "GENKI Kanji (Japanese)",
+    "cards": [
+      {
+        "facets": [
+          { "label": "Kanji", "content": "一" },
+          { "label": "Readings", "content": "ひと(つ) / イチ" },
+          { "label": "Meaning", "content": "One" },
+          { "label": "Example", "content": "一つ (ひとつ) - One\n一時 (いちじ) - 1:00" }
+        ]
+      },
+      {
+        "facets": [
+          { "label": "Kanji", "content": "二" },
+          { "label": "Readings", "content": "ふた(つ) / ニ" },
+          { "label": "Meaning", "content": "Two" },
+          { "label": "Example", "content": "二つ (ふたつ) - Two\n二時 (にじ) - 2:00" }
+        ]
+      },
+      {
+        "facets": [
+          { "label": "Kanji", "content": "三" },
+          { "label": "Readings", "content": "みっ(つ) / サン" },
+          { "label": "Meaning", "content": "Three" },
+          { "label": "Example", "content": "三つ (みっつ) - Three\n三時 (さんじ) - 3:00" }
+        ]
+      },
+      {
+        "facets": [
+          { "label": "Kanji", "content": "四" },
+          { "label": "Readings", "content": "よん, よ, よっ(つ) / シ" },
+          { "label": "Meaning", "content": "Four" },
+          { "label": "Example", "content": "四時 (よじ) - 4:00\n四つ (よっつ) - Four" }
+        ]
+      },
+      {
+        "facets": [
+          { "label": "Kanji", "content": "五" },
+          { "label": "Readings", "content": "いつ(つ) / ゴ" },
+          { "label": "Meaning", "content": "Five" },
+          { "label": "Example", "content": "五つ (いつつ) - Five\n五時 (ごじ) - 5:00" }
+        ]
+      },
+      {
+        "facets": [
+          { "label": "Kanji", "content": "六" },
+          { "label": "Readings", "content": "むっ(つ) / ロク, ロッ-" },
+          { "label": "Meaning", "content": "Six" },
+          { "label": "Example", "content": "六つ (むっつ) - Six\n六時 (ろくじ) - 6:00" }
+        ]
+      },
+      {
+        "facets": [
+          { "label": "Kanji", "content": "七" },
+          { "label": "Readings", "content": "なな, なな(つ) / シチ" },
+          { "label": "Meaning", "content": "Seven" },
+          { "label": "Example", "content": "七つ (ななつ) - Seven\n七時 (しちじ) - 7:00" }
+        ]
+      },
+      {
+        "facets": [
+          { "label": "Kanji", "content": "八" },
+          { "label": "Readings", "content": "やっ(つ) / ハチ, ハッ-" },
+          { "label": "Meaning", "content": "Eight" },
+          { "label": "Example", "content": "八つ (やっつ) - Eight\n八時 (はちじ) - 8:00" }
+        ]
+      },
+      {
+        "facets": [
+          { "label": "Kanji", "content": "九" },
+          { "label": "Readings", "content": "ここの(つ) / キュウ, ク" },
+          { "label": "Meaning", "content": "Nine" },
+          { "label": "Example", "content": "九つ (ここのつ) - Nine\n九時 (くじ) - 9:00" }
+        ]
+      },
+      {
+        "facets": [
+          { "label": "Kanji", "content": "十" },
+          { "label": "Readings", "content": "とお / ジュウ, ジュッ-" },
+          { "label": "Meaning", "content": "Ten" },
+          { "label": "Example", "content": "十 (とお) - Ten\n十時 (じゅうじ) - 10:00" }
+        ]
+      },
+      {
+        "facets": [
+          { "label": "Kanji", "content": "百" },
+          { "label": "Readings", "content": "ヒャク, ビャク, ピャク" },
+          { "label": "Meaning", "content": "Hundred" },
+          { "label": "Example", "content": "百 (ひゃく) - 100\n三百 (さんびゃく) - 300" }
+        ]
+      },
+      {
+        "facets": [
+          { "label": "Kanji", "content": "千" },
+          { "label": "Readings", "content": "ち / セン, ゼン" },
+          { "label": "Meaning", "content": "Thousand" },
+          { "label": "Example", "content": "千 (せん) - 1,000\n三千 (さんぜん) - 3,000" }
+        ]
+      },
+      {
+        "facets": [
+          { "label": "Kanji", "content": "万" },
+          { "label": "Readings", "content": "マン" },
+          { "label": "Meaning", "content": "Ten thousand" },
+          { "label": "Example", "content": "一万 (いちまん) - 10,000" }
+        ]
+      },
+      {
+        "facets": [
+          { "label": "Kanji", "content": "円" },
+          { "label": "Readings", "content": "エン, まる(い)" },
+          { "label": "Meaning", "content": "Yen, Circle" },
+          { "label": "Example", "content": "百円 (ひゃくえん) - 100 yen\n円い (まるい) - Round" }
+        ]
+      },
+      {
+        "facets": [
+          { "label": "Kanji", "content": "時" },
+          { "label": "Readings", "content": "とき / ジ" },
+          { "label": "Meaning", "content": "Time, Hour" },
+          { "label": "Example", "content": "時間 (じかん) - Time\n時々 (ときどき) - Sometimes" }
+        ]
+      }
+    ]
+  },
+
+  {
+    "lesson": 4,
+    "title": "GENKI - Lesson 4 Kanji",
+    "description": "メアリーさんのしゅうまつ - Mary's Weekend",
+    "folder": "GENKI Kanji (Japanese)",
+    "cards": [
+      {
+        "facets": [
+          { "label": "Kanji", "content": "日" },
+          { "label": "Readings", "content": "び、ひ、か / ニチ、ジツ" },
+          { "label": "Meaning", "content": "Day, Sun" },
+          { "label": "Example", "content": "日本 (にほん) - Japan\n日曜日 (にちようび) - Sunday" }
+        ]
+    },
+      {
+        "facets": [
+          { "label": "Kanji", "content": "本" },
+          { "label": "Readings", "content": "もと / ホン" },
+          { "label": "Meaning", "content": "Book" },
+          { "label": "Example", "content": "本当（ほんとう） - Truth\n日本（にほん） - Japan" }
+        ]
+      },
+      {
+        "facets": [
+          { "label": "Kanji", "content": "人" },
+          { "label": "Readings", "content": "ひと / ジン、ニン" },
+          { "label": "Meaning", "content": "Person" },
+          { "label": "Example", "content": "日本人 (にほんじん) - Japanese person\n三人 (さんにん) - Three people" }
+        ]
+      },
+            {
+        "facets": [
+          { "label": "Kanji", "content": "月" },
+          { "label": "Readings", "content": "つき / ゲツ、ガツ" },
+          { "label": "Meaning", "content": "Month, Moon" },
+          { "label": "Example", "content": "一月 (いちがつ) - January\n今月 (こんげつ) - This month" }
+        ]
+      },
+            {
+        "facets": [
+          { "label": "Kanji", "content": "火" },
+          { "label": "Readings", "content": "ひ、ほ / カ" },
+          { "label": "Meaning", "content": "Fire" },
+          { "label": "Example", "content": "火曜日 (かようび) - Fire\n火山 (かざん) - Volcano" }
+        ]
+      },
+        {
+            "facets": [
+            { "label": "Kanji", "content": "水" },
+            { "label": "Readings", "content": "みず / スイ" },
+            { "label": "Meaning", "content": "Water" },
+            { "label": "Example", "content": "水曜日 (すいようび) - Wednesday\n水道 (すいどう) - Water supply" }
+            ]
+        },
+        {
+            "facets": [
+            { "label": "Kanji", "content": "木" },
+            { "label": "Readings", "content": "き / モク、ボク" },
+            { "label": "Meaning", "content": "Tree, Wood" },
+            { "label": "Example", "content": "木曜日 (もくようび) - Thursday\n木材 (もくざい) - Lumber" }
+            ]
+        },
+        {
+            "facets": [
+            { "label": "Kanji", "content": "金" },
+            { "label": "Readings", "content": "かね / キン、コン" },
+            { "label": "Meaning", "content": "Gold, Money" },
+            { "label": "Example", "content": "金曜日 (きんようび) - Friday\nお金 (おかね) - Money" }
+            ]
+        },
+        {
+            "facets": [
+            { "label": "Kanji", "content": "土" },
+            { "label": "Readings", "content": "つち / ド、ト" },
+            { "label": "Meaning", "content": "Soil" },
+            { "label": "Example", "content": "土曜日 (どようび) - Saturday\n土地 (とち) - Land" }
+            ]
+        },
+        {
+            "facets": [
+            { "label": "Kanji", "content": "曜" },
+            { "label": "Readings", "content": "ヨウ" },
+            { "label": "Meaning", "content": "Day of the week" },
+            { "label": "Example", "content": "曜日 (ようび) - Day of the week\n日曜日 (にちようび) - Sunday" }
+            ]
+        },
+        {
+            "facets": [
+            { "label": "Kanji", "content": "上" },
+            { "label": "Readings", "content": "うえ、かみ、あ-げる、あ-がる、のぼ-る / ショウ、ジョウ" },
+            { "label": "Meaning", "content": "Above, Up" },
+            { "label": "Example", "content": "上 (うえ) - Above\n上手 (じょうず) - Skillful, Good at" }
+            ]
+        }, 
+        {
+            "facets": [
+            { "label": "Kanji", "content": "下" },
+            { "label": "Readings", "content": "した、しも、さ-げる、さ-がる、くだ-る / カ、ゲ" },
+            { "label": "Meaning", "content": "Below, Down" },
+            { "label": "Example", "content": "下 (した) - Below\n下手 (へた) - Unskillful, Poor at" }
+            ]
+        },
+        {
+            "facets": [
+            { "label": "Kanji", "content": "中" },
+            { "label": "Readings", "content": "なか / チュウ,ジュウ" },
+            { "label": "Meaning", "content": "Middle, Inside" },
+            { "label": "Example", "content": "中学校 (ちゅうがっこう) - Middle school\n中国 (ちゅうごく) - China" }
+            ]
+        },
+        {
+            "facets": [
+            { "label": "Kanji", "content": "半" },
+            { "label": "Readings", "content": "なか-ば / ハン" },
+            { "label": "Meaning", "content": "Half" },
+            { "label": "Example", "content": "半日 (はんにち) - Half a day\n半分 (はんぶん) - Half" }
+            ]
+        }
+    ]
+  },
+  {
+    "lesson": 5,
+    "title": "GENKI - Lesson 5 Kanji",
+    "description": "りょこう - Travel",
+    "folder": "GENKI Kanji (Japanese)",
+    "cards": [
+      {
+        "facets": [
+          { "label": "Kanji", "content": "山" },
+          { "label": "Readings", "content": "やま / サン" },
+          { "label": "Meaning", "content": "Mountain" },
+          { "label": "Example", "content": "山田(やまだ) - Mr. Yamada\n富士山 (ふじさん) - Mount Fuji" }
+        ]
+      },
+      {
+        "facets": [
+          { "label": "Kanji", "content": "川" },
+          { "label": "Readings", "content": "かわ / セン" },
+          { "label": "Meaning", "content": "River" },
+          { "label": "Example", "content": "河川 (かせん) - River\n小川 (しょうがわ) - Stream" }
+        ]
+      },
+      {
+        "facets": [
+          { "label": "Kanji", "content": "元" },
+          { "label": "Readings", "content": "もと / ゲン、ガン" },
+          { "label": "Meaning", "content": "Origin" },
+          { "label": "Example", "content": "元気 (げんき) - Healthy, Energetic\n元日 (がんじつ) - New Year's Day" }
+        ]
+      },
+      {
+        "facets": [
+          { "label": "Kanji", "content": "気" },
+          { "label": "Readings", "content": "いき/ キ、ケ" },
+          { "label": "Meaning", "content": "Spirit, Air, Mood" },
+          { "label": "Example", "content": "天気 (てんき) - Weather\n気持ち (きもち) - Feeling, Mood" }
+        ]
+      },
+      {
+        "facets": [
+          { "label": "Kanji", "content": "天" },
+          { "label": "Readings", "content": "あま、あめ / テン" },
+          { "label": "Meaning", "content": "Heaven, Sky" },
+          { "label": "Example", "content": "天気 (てんき) - Weather\n天国 (てんごく) - Heaven, Sky" }
+        ]
+      },
+      {
+        "facets": [
+          { "label": "Kanji", "content": "私" },
+          { "label": "Readings", "content": "わたし、わたくし / シ" },
+          { "label": "Meaning", "content": "I, Private, Me" },
+          { "label": "Example", "content": "私立 (しりつ) - Private (school)\n私 (わたし) - I, Me" }
+        ]
+      },
+      {
+        "facets": [
+          { "label": "Kanji", "content": "今" },
+          { "label": "Readings", "content": "いま / コン、キン" },
+          { "label": "Meaning", "content": "Now" },
+          { "label": "Example", "content": "今日 (きょう) - Today\n今週 (こんしゅう) - This week" }
+        ]   
+      },
+        {
+            "facets": [
+            { "label": "Kanji", "content": "田" },
+            { "label": "Readings", "content": "た / デン" },
+            { "label": "Meaning", "content": "Rice field" },
+            { "label": "Example", "content": "田舎 (いなか) - Countryside\n田中 (たなか) - Tanaka" }
+            ]
+        },
+        {
+            "facets": [
+            { "label": "Kanji", "content": "女" },
+            { "label": "Readings", "content": "おんな、め / ニョウ、ニョ、ジョ" },
+            { "label": "Meaning", "content": "Woman, Female" },
+            { "label": "Example", "content": "女性 (じょせい) - Woman, Female\n女の子 (おんなのこ) - Girl" }
+            ]
+        },
+        {
+            "facets": [
+            { "label": "Kanji", "content": "男" },
+            { "label": "Readings", "content": "おとこ / ダン、ナン" },
+            { "label": "Meaning", "content": "Man, Male" },
+            { "label": "Example", "content": "男性 (だんせい) - Man, Male\n男の子 (おとこのこ) - Boy" }
+            ]
+        },
+        {
+            "facets": [
+            { "label": "Kanji", "content": "見" },
+            { "label": "Readings", "content": "み-る / ケン" },
+            { "label": "Meaning", "content": "To See, To Look, View" },
+            { "label": "Example", "content": "見る (みる) - To See\n見方 (みかた) - Way of Seeing" }
+            ]
+        },
+        {
+            "facets": [
+            { "label": "Kanji", "content": "行" },
+            { "label": "Readings", "content": "い-く、ゆ-く、おこな-う / コウ、ギョウ、アン" },
+            { "label": "Meaning", "content": "To Go, To Conduct" },
+            { "label": "Example", "content": "行く (いく) - To Go\n銀行 (ぎんこう) - Bank" }
+            ]
+        }, 
+        {
+            "facets": [
+            { "label": "Kanji", "content": "食" },
+            { "label": "Readings", "content": "た-べる、く-う / ショク、ジキ" },
+            { "label": "Meaning", "content": "To Eat" },
+            { "label": "Example", "content": "食べる (たべる) - To Eat\n食事 (しょくじ) - Meal" }
+            ]
+        },
+        {
+            "facets": [
+            { "label": "Kanji", "content": "飲" },
+            { "label": "Readings", "content": "の-む / イン" },
+            { "label": "Meaning", "content": "To Drink" },
+            { "label": "Example", "content": "飲む (のむ) - To Drink\n飲み物 (のみもの) - Beverage" }
+            ]
+        }
+    ]
+  },
+  {
+    "lesson": 6,
+    "title": "GENKI - Lesson 6 Kanji",
+    "description": "私の好きなレストラン - My Favorite Restaurant",
+    "folder": "GENKI Kanji (Japanese)",
+    "cards": [
+      {
+        "facets": [
+          { "label": "Kanji", "content": "東" },
+          { "label": "Readings", "content": "ひがし / トウ" },
+          { "label": "Meaning", "content": "East" },
+          { "label": "Example", "content": "東京 (とうきょう) - Tokyo\n北東 (ほくとう) - Northeast" }
+        ]
+      },
+      {
+        "facets": [
+          { "label": "Kanji", "content": "西" },
+          { "label": "Readings", "content": "にし / セイ、サイ" },
+          { "label": "Meaning", "content": "West" },
+          { "label": "Example", "content": "西洋 (せいよう) - The West, Western\n中西部 (ちゅうせいぶ) - Middle West" }
+        ]
+      },
+      {
+        "facets": [
+          { "label": "Kanji", "content": "南" },
+          { "label": "Readings", "content": "みなみ / ナン、ナ" },
+          { "label": "Meaning", "content": "South" },
+          { "label": "Example", "content": "南口 (みなみぐち) - South Exit\n南極 (なんきょく) - South Pole" }
+        ]
+      },
+      {
+        "facets": [
+          { "label": "Kanji", "content": "北" },
+          { "label": "Readings", "content": "きた / ホク" },
+          { "label": "Meaning", "content": "North" },
+          { "label": "Example", "content": "北海道 (ほっかいどう) - Hokkaido\n北風 (きたかぜ) - North Wind" }
+        ]
+      },
+      {
+        "facets": [
+          { "label": "Kanji", "content": "口" },
+          { "label": "Readings", "content": "くち / コウ、ク" },
+          { "label": "Meaning", "content": "Mouth, Opening" },
+          { "label": "Example", "content": "入口 (いりぐち) - Entrance\n出口 (でぐち) - Exit" }
+        ]
+      },
+      {
+        "facets": [
+          { "label": "Kanji", "content": "出" },
+          { "label": "Readings", "content": "で-る、だ-す / シュツ" },
+          { "label": "Meaning", "content": "To Go Out, To Come Out, To Leave" },
+          { "label": "Example", "content": "出る (でる) - To Go Out\n出発 (しゅっぱつ) - Departure" }
+        ]
+      },
+      {
+        "facets": [
+          { "label": "Kanji", "content": "右" },
+          { "label": "Readings", "content": "みぎ / ウ、ユウ" },
+          { "label": "Meaning", "content": "Right" },
+          { "label": "Example", "content": "右側 (みぎがわ) - Right Side\n右手 (みぎて) - Right Hand" }
+        ]
+      },
+      {
+        "facets": [
+          { "label": "Kanji", "content": "左" },
+          { "label": "Readings", "content": "ひだり / サ" },
+          { "label": "Meaning", "content": "Left" },
+          { "label": "Example", "content": "左側 (ひだりがわ) - Left Side\n左手 (ひだりて) - Left Hand" }
+        ]
+      }, 
+      {
+        "facets": [
+          { "label": "Kanji", "content": "分" },
+          { "label": "Readings", "content": "わ-ける、わ-かれる / フン、ブン、ブ" },
+          { "label": "Meaning", "content": "To Divide, To Separate, Minute" },
+          { "label": "Example", "content": "一分 (いっぷん) - One Minute\n自分 (じぶん) - Self, Oneself" }
+        ]
+      },
+      {
+        "facets": [
+          { "label": "Kanji", "content": "先" },
+          { "label": "Readings", "content": "さき/ セン" },
+          { "label": "Meaning", "content": "Future, Before, First" },
+          { "label": "Example", "content": "先月 (せんげつ) - Last Month\n先生 (せんせい) - Teacher" }
+        ]
+      },
+      {
+        "facets": [
+          { "label": "Kanji", "content": "生" },
+          { "label": "Readings", "content": "い-きる、う-まれる,は-える、なま、き / セイ、ショウ" },
+          { "label": "Meaning", "content": "Life, Birth" },
+          { "label": "Example", "content": "学生 (がくせい) - Student\n生まれる (うまれる) - To Be Born" }
+        ]
+      },
+      {
+        "facets": [
+          { "label": "Kanji", "content": "大" },
+          { "label": "Readings", "content": "おお-きい、おお / タイ,ダイ" },
+          { "label": "Meaning", "content": "Big, Large" },
+          { "label": "Example", "content": "大学 (だいがく) - University\n大きい (おおきい) - Big" }
+        ]
+      },
+      {
+        "facets": [
+          { "label": "Kanji", "content": "学" },
+          { "label": "Readings", "content": "まな-ぶ / ガク" },
+          { "label": "Meaning", "content": "To Study, Learning" },
+          { "label": "Example", "content": "学校 (がっこう) - School\n学ぶ (まなぶ) - To Learn" }
+        ]
+      },
+      {
+        "facets": [
+          { "label": "Kanji", "content": "外" },
+          { "label": "Readings", "content": "そと、ほか、はず-す / ガイ、ゲ" },
+          { "label": "Meaning", "content": "Outside, External" },
+          { "label": "Example", "content": "外側 (そとがわ) - Outside\n外国 (がいこく) - Foreign Country" }
+        ]
+      },
+      {
+        "facets": [
+          { "label": "Kanji", "content": "国" },
+          { "label": "Readings", "content": "くに / コク" },
+          { "label": "Meaning", "content": "Country, Nation" },
+          { "label": "Example", "content": "外国 (がいこく) - Foreign Country\n国語 (こくご) - National Language" }
+        ]
+      }
+    ]
+  },
+    {
+        "lesson": 7,
+        "title": "GENKI - Lesson 7 Kanji",
+        "description": "メアリーさんのてがみ - Mary's Letter",
+        "folder": "GENKI Kanji (Japanese)",
+        "cards": [
+        {
+            "facets": [
+            { "label": "Kanji", "content": "京" },
+            { "label": "Readings", "content": "みやこ / ケイ、キン、キョウ" },
+            { "label": "Meaning", "content": "Capital City" },
+            { "label": "Example", "content": "東京 (とうきょう) - Tokyo\n京都 (きょうと) - Kyoto" }
+            ]
+        },
+        {
+            "facets": [
+            { "label": "Kanji", "content": "子" },
+            { "label": "Readings", "content": "こ / シ、ス" },
+            { "label": "Meaning", "content": "Child" },
+            { "label": "Example", "content": "子ども (こども) - Child\n女子 (じょし) - Girl, Woman" }
+            ]
+        },
+        {
+            "facets": [
+            { "label": "Kanji", "content": "小" },
+            { "label": "Readings", "content": "ちい-さい、こ、お / ショウ" },
+            { "label": "Meaning", "content": "Small, Little" },
+            { "label": "Example", "content": "小さい (ちいさい) - Small\n小学校 (しょうがっこう) - Elementary School" }
+            ]
+        },
+        {
+            "facets": [
+            { "label": "Kanji", "content": "会" },
+            { "label": "Readings", "content": "あ-う / カイ、エ" },
+            { "label": "Meaning", "content": "Meeting, Gathering" },
+            { "label": "Example", "content": "会社 (かいしゃ) - Company\n会う (あう) - To Meet" }
+            ]
+        },
+        {
+            "facets": [
+            { "label": "Kanji", "content": "社" },
+            { "label": "Readings", "content": "やしろ / シャ" },
+            { "label": "Meaning", "content": "Company, Shrine" },
+            { "label": "Example", "content": "会社 (かいしゃ) - Company\n神社 (じんじゃ) - Shinto Shrine" }
+            ]
+        },
+        {
+            "facets": [
+            { "label": "Kanji", "content": "父" },
+            { "label": "Readings", "content": "ちち / フ" },
+            { "label": "Meaning", "content": "Father" },
+            { "label": "Example", "content": "父親 (ちちおや) - Father\n父さん (とうさん) - Father" }
+            ]
+        },
+        {
+            "facets": [
+            { "label": "Kanji", "content": "母" },
+            { "label": "Readings", "content": "はは / ボ" },
+            { "label": "Meaning", "content": "Mother" },
+            { "label": "Example", "content": "母親 (ははおや) - Mother\n母さん (かあさん) - Mother" }
+            ]
+        },
+        {
+            "facets": [
+            { "label": "Kanji", "content": "高" },
+            { "label": "Readings", "content": "たか-い / コウ" },
+            { "label": "Meaning", "content": "Tall, High" },
+            { "label": "Example", "content": "高い (たかい) - Tall\n高校 (こうこう) - High School" }
+            ]
+        },
+        {
+            "facets": [
+            { "label": "Kanji", "content": "校" },
+            { "label": "Readings", "content": "コウ" },
+            { "label": "Meaning", "content": "School" },
+            { "label": "Example", "content": "学校 (がっこう) - School\n高校 (こうこう) - High School" }
+            ]
+        },
+        {
+            "facets": [
+            { "label": "Kanji", "content": "毎" },
+            { "label": "Readings", "content": "ごと / マイ" },
+            { "label": "Meaning", "content": "Every" },
+            { "label": "Example", "content": "毎日 (まいにち) - Every Day\n毎週 (まいしゅう) - Every Week" }
+            ]
+        },
+        {
+            "facets": [
+            { "label": "Kanji", "content": "語" },
+            { "label": "Readings", "content": "かた-る / ゴ" },
+            { "label": "Meaning", "content": "Language, Word" },
+            { "label": "Example", "content": "言語 (げんご) - Language\n日本語 (にほんご) - Japanese Language" }
+            ]
+        }, 
+        {
+            "facets": [
+            { "label": "Kanji", "content": "文" },
+            { "label": "Readings", "content": "ふみ / ブン、モン" },
+            { "label": "Meaning", "content": "Sentence, Literature" },
+            { "label": "Example", "content": "文学 (ぶんがく) - Literature\n文章 (ぶんしょう) - Sentence" }
+            ]
+        },
+        {
+            "facets": [
+            { "label": "Kanji", "content": "帰" },
+            { "label": "Readings", "content": "かえ-る / キ" },
+            { "label": "Meaning", "content": "To Return, To Go Home" },
+            { "label": "Example", "content": "帰る (かえる) - To Return\n帰宅 (きたく) - To Return Home" }
+            ]
+        },
+        {
+            "facets": [
+            { "label": "Kanji", "content": "入" },
+            { "label": "Readings", "content": "い-る、い-れる、はい-る / ニュウ" },
+            { "label": "Meaning", "content": "To Enter, To Insert" },
+            { "label": "Example", "content": "入る (はいる) - To Enter\n入学 (にゅうがく) - Enrollment" }
+            ]
+        }
+        ]
+    },
+    {
+        "lesson": 8,
+        "title": "GENKI - Lesson 8 Kanji",
+        "description": "日本の会社員 - Japanese Office Workers",
+        "folder": "GENKI Kanji (Japanese)",
+        "cards": [
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "員" },
+                    { "label": "Readings", "content": "イン" },
+                    { "label": "Meaning", "content": "Member, Employee" },
+                    { "label": "Example", "content": "社員 (しゃいん) - Employee\n店員 (てんいん) - Store Employee" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "新" },
+                    { "label": "Readings", "content": "あたらしい、あら-た、にい / シン" },
+                    { "label": "Meaning", "content": "New" },
+                    { "label": "Example", "content": "新しい (あたらしい) - New\n新聞 (しんぶん) - Newspaper" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "聞" },
+                    { "label": "Readings", "content": "き-く、き-こえる / ぶん、もん" },
+                    { "label": "Meaning", "content": "To Hear, To Listen, To ask" },
+                    { "label": "Example", "content": "聞く (きく) - To Hear\n聞き取り (ききとり) - Listening Comprehension" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "作" },
+                    { "label": "Readings", "content": "つく-る / サク、サ" },
+                    { "label": "Meaning", "content": "To Make, To Create" },
+                    { "label": "Example", "content": "作る (つくる) - To Make\n作文 (さくぶん) - Composition" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "仕" },
+                    { "label": "Readings", "content": "つか-える / シ、ジ" },
+                    { "label": "Meaning", "content": "To Serve, To Work" },
+                    { "label": "Example", "content": "仕事 (しごと) - Work, Job\n仕える (つかえる) - To Serve" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "事" },
+                    { "label": "Readings", "content": "こと / ジ、ズ" },
+                    { "label": "Meaning", "content": "Thing, Matter" },
+                    { "label": "Example", "content": "仕事 (しごと) - Work, Job\n大事 (だいじ) - Important" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "電" },
+                    { "label": "Readings", "content": "デン" },
+                    { "label": "Meaning", "content": "Electricity, Lightning" },
+                    { "label": "Example", "content": "電車 (でんしゃ) - Train\n電話 (でんわ) - Telephone" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "車" },
+                    { "label": "Readings", "content": "くるま / シャ" },
+                    { "label": "Meaning", "content": "Car" },
+                    { "label": "Example", "content": "車 (くるま) - Car\n電車 (でんしゃ) - Train" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "休" },
+                    { "label": "Readings", "content": "やす-む / シュ" },
+                    { "label": "Meaning", "content": "To Rest" },
+                    { "label": "Example", "content": "休む (やすむ) - To Rest\n休日 (きゅうじつ) - Day Off" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "言" },
+                    { "label": "Readings", "content": "こと、い-う / ゲン、ゴン" },
+                    { "label": "Meaning", "content": "Word, To Say" },
+                    { "label": "Example", "content": "言う (いう) - To Say\n言葉 (ことば) - Words" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "読" },
+                    { "label": "Readings", "content": "よ-む / ドク、トク、トウ" },
+                    { "label": "Meaning", "content": "To Read" },
+                    { "label": "Example", "content": "読む (よむ) - To Read\n読書 (どくしょ) - Reading" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "思" },
+                    { "label": "Readings", "content": "おも-う / シ" },
+                    { "label": "Meaning", "content": "To Think" },
+                    { "label": "Example", "content": "思う (おもう) - To Think\n思い出(おもいで) - Memory" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "次" },
+                    { "label": "Readings", "content": "つ-ぐ、つぎ / シ、ジ" },
+                    { "label": "Meaning", "content": "Next" },
+                    { "label": "Example", "content": "次 (つぎ) - Next\n次回 (じかい) - Next Time" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "何" },
+                    { "label": "Readings", "content": "なに、なん / カ" },
+                    { "label": "Meaning", "content": "What" },
+                    { "label": "Example", "content": "何 (なに) - What\n何時 (なんじ) - What Time" }
+                ]
+            }
+        ]
+    },
+    {
+        "lesson": 9,
+        "title": "GENKI - Lesson 9 Kanji",
+        "description": "ソラさんの日記 - Sora's Diary",
+        "folder": "GENKI Kanji (Japanese)",
+        "cards": [
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "午" },
+                    { "label": "Readings", "content": "ゴ" },
+                    { "label": "Meaning", "content": "Noon" },
+                    { "label": "Example", "content": "午前 (ごぜん) - Morning\n午後 (ごご) - Afternoon" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "後" },
+                    { "label": "Readings", "content": "あと、うし-ろ、のち、おく-れる / ゴ、コウ" },
+                    { "label": "Meaning", "content": "After, Behind, Later" },
+                    { "label": "Example", "content": "後で (あとで) - Later\n後ろ (うしろ) - Behind" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "前" },
+                    { "label": "Readings", "content": "まえ / ゼン" },
+                    { "label": "Meaning", "content": "Before, In Front" },
+                    { "label": "Example", "content": "前 (まえ) - Before\n名前 (なまえ) - Name" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "名" },
+                    { "label": "Readings", "content": "な / メイ、ミョウ" },
+                    { "label": "Meaning", "content": "Name" },
+                    { "label": "Example", "content": "名前 (なまえ) - Name\n有名 (ゆうめい) - Famous" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "白" },
+                    { "label": "Readings", "content": "しろ、しら、しろ-い / ハク、ビャク" },
+                    { "label": "Meaning", "content": "White" },
+                    { "label": "Example", "content": "白い (しろい) - White\n面白 (おもしろい) - Funny, Interesting" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "雨" },
+                    { "label": "Readings", "content": "あめ、あま / ウ" },
+                    { "label": "Meaning", "content": "Rain" },
+                    { "label": "Example", "content": "雨 (あめ) - Rain\n雨が降る (あめがふる) - It Rains" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "書" },
+                    { "label": "Readings", "content": "か-く / ショ" },
+                    { "label": "Meaning", "content": "To Write" },
+                    { "label": "Example", "content": "教科書 (きょうかしょ) - Textbook\n図書館 (としょかん) - Library" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "友" },
+                    { "label": "Readings", "content": "とも / ユウ" },
+                    { "label": "Meaning", "content": "Friend" },
+                    { "label": "Example", "content": "友達 (ともだち) - Friend\n親友 (しんゆう) - Best Friend" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "間" },
+                    { "label": "Readings", "content": "あいだ、ま / カン、ケン" },
+                    { "label": "Meaning", "content": "Space, Between" },
+                    { "label": "Example", "content": "時間 (じかん) - Time\n人間 (にんげん) - Human Being" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "家" },
+                    { "label": "Readings", "content": "いえ、うち、や / カ、ケ" },
+                    { "label": "Meaning", "content": "House, Home" },
+                    { "label": "Example", "content": "家 (いえ) - House\n家族 (かぞく) - Family" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "話" },
+                    { "label": "Readings", "content": "はな-す、はなし / ワ" },
+                    { "label": "Meaning", "content": "To Talk" },
+                    { "label": "Example", "content": "話す (はなす) - To Speak\n電話 (でんわ) - Telephone" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "少" },
+                    { "label": "Readings", "content": "すく-ない、スコ-ナイ / ショウ" },
+                    { "label": "Meaning", "content": "Few, Little" },
+                    { "label": "Example", "content": "少年 (しょうねん) - Boy\n少し (すこし) - A little bit" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "古" },
+                    { "label": "Readings", "content": "ふる-い / コ" },
+                    { "label": "Meaning", "content": "Old" },
+                    { "label": "Example", "content": "古い (ふるい) - Old\n中古 (ちゅうこ) - Second-hand" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "知" },
+                    { "label": "Readings", "content": "し-る / チ" },
+                    { "label": "Meaning", "content": "To Know, Wisdom" },
+                    { "label": "Example", "content": "知る (しる) - To Know\n知識 (ちしき) - Knowledge" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "来" },
+                    { "label": "Readings", "content": "く-る、きた-る / ライ" },
+                    { "label": "Meaning", "content": "To Come" },
+                    { "label": "Example", "content": "来る (くる) - To Come\n来週 (らいしゅう) - Next Week" }
+                ]
+            }
+        ]
+    },
+    {
+        "lesson": 10,
+        "title": "GENKI - Lesson 10 Kanji",
+        "description": "昔話「かさじぞう」 - The Foldtale Kasajizo",
+        "folder": "GENKI Kanji (Japanese)",
+        "cards": [
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "住" },
+                    { "label": "Readings", "content": "す-む / ジュウ" },
+                    { "label": "Meaning", "content": "To Live" },
+                    { "label": "Example", "content": "住む (すむ) - To Live\n住所 (じゅうしょ) - Address" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "正" },
+                    { "label": "Readings", "content": "ただ-しい、まさ / セイ、ショウ" },
+                    { "label": "Meaning", "content": "Correct" },
+                    { "label": "Example", "content": "正しい (ただしい) - Correct\n正解 (せいかい) - Correct Answer" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "年" },
+                    { "label": "Readings", "content": "とし / ネン" },
+                    { "label": "Meaning", "content": "Year" },
+                    { "label": "Example", "content": "今年 (ことし) - This Year\n一年生 (いちねんせい) - First-Year Student" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "売" },
+                    { "label": "Readings", "content": "う-る / バイ" },
+                    { "label": "Meaning", "content": "To Sell" },
+                    { "label": "Example", "content": "売る (うる) - To Sell\n販売 (はんばい) - Sales" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "買" },
+                    { "label": "Readings", "content": "か-う / バイ" },
+                    { "label": "Meaning", "content": "To Buy" },
+                    { "label": "Example", "content": "買う (かう) - To Buy\n買い物 (かいもの) - Shopping" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "町" },
+                    { "label": "Readings", "content": "まち / チョウ" },
+                    { "label": "Meaning", "content": "Town" },
+                    { "label": "Example", "content": "町 (まち) - Town\n下町 (したまち) - Old Town" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "長" },
+                    { "label": "Readings", "content": "なが-い / チョウ" },
+                    { "label": "Meaning", "content": "Long" },
+                    { "label": "Example", "content": "長い (ながい) - Long\n社長 (しゃちょう) - Company President" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "道" },
+                    { "label": "Readings", "content": "みち / ドウ、トウ" },
+                    { "label": "Meaning", "content": "Street" },
+                    { "label": "Example", "content": "道 (みち) - Road\n道具 (どうぐ) - Tool" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "雪" },
+                    { "label": "Readings", "content": "ゆき / セツ" },
+                    { "label": "Meaning", "content": "Snow" },
+                    { "label": "Example", "content": "雪 (ゆき) - Snow\n初雪 (はつゆき) - First Snow" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "立" },
+                    { "label": "Readings", "content": "た-つ、た-てる / リツ、リュウ" },
+                    { "label": "Meaning", "content": "To Stand" },
+                    { "label": "Example", "content": "立つ (たつ) - To Stand\n役に立つ (やくにたつ) - To Be Useful" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "自" },
+                    { "label": "Readings", "content": "みずか-ら、おの-ずと / シ、ジ" },
+                    { "label": "Meaning", "content": "oneself" },
+                    { "label": "Example", "content": "自分 (じぶん) - Oneself\n自由 (じゆう) - Freedom" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "夜" },
+                    { "label": "Readings", "content": "よる、よ / ヤ" },
+                    { "label": "Meaning", "content": "Night. Evening" },
+                    { "label": "Example", "content": "夜 (よる) - Night\n今夜 (こんや) - Tonight" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "朝" },
+                    { "label": "Readings", "content": "あさ / チョウ" },
+                    { "label": "Meaning", "content": "Morning" },
+                    { "label": "Example", "content": "朝 (あさ) - Morning\n朝食 (ちょうしょく) - Breakfast" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "持" },
+                    { "label": "Readings", "content": "も-つ / ジ" },
+                    { "label": "Meaning", "content": "To Hold" },
+                    { "label": "Example", "content": "持つ (もつ) - To Hold\n気持ち (きもち) - Feelings" }
+                ]
+            }
+        ]
+    },
+    {
+        "lesson": 11,
+        "title": "GENKI - Lesson 11 Kanji",
+        "description": "友だち・メンバー募集 - Looking for Friends/Members",
+        "folder": "GENKI Kanji (Japanese)",
+        "cards": [
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "手" },
+                    { "label": "Readings", "content": "て、た / シュ" },
+                    { "label": "Meaning", "content": "Hand" },
+                    { "label": "Example", "content": "手 (て) - Hand\n手紙 (てがみ) - Letter" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "紙" },
+                    { "label": "Readings", "content": "かみ / シ" },
+                    { "label": "Meaning", "content": "Paper" },
+                    { "label": "Example", "content": "紙 (かみ) - Paper\n折り紙 (おりがみ) - Origami" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "好" },
+                    { "label": "Readings", "content": "この-む、す-く / コウ" },
+                    { "label": "Meaning", "content": "Like, Fond" },
+                    { "label": "Example", "content": "好み (よい) - Preference\n好き (すき) - Like" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "近" },
+                    { "label": "Readings", "content": "ちか-い / キン、コン" },
+                    { "label": "Meaning", "content": "Near, Close" },
+                    { "label": "Example", "content": "近い (ちかい) - Near\n最近 (さいきん) - Recently" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "明" },
+                    { "label": "Readings", "content": "あか-るい、あ-かり、あき-らか / メイ、ミョウ、ミン" },
+                    { "label": "Meaning", "content": "Bright, Clear" },
+                    { "label": "Example", "content": "明るい (あかるい) - Bright\n明日 (あした) - Tomorrow" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "病" },
+                    { "label": "Readings", "content": "やまい、や-む / びょう、へい" },
+                    { "label": "Meaning", "content": "Illness" },
+                    { "label": "Example", "content": "病気 (びょうき) - Illness\n病院 (びょういん) - Hospital" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "映" },
+                    { "label": "Readings", "content": "うつ-る、はえ-る / エイ" },
+                    { "label": "Meaning", "content": "To Reflect, To Project" },
+                    { "label": "Example", "content": "映画 (えいが) - Movie\n映像 (えいぞう) - Video" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "画" },
+                    { "label": "Readings", "content": "ガ、カク" },
+                    { "label": "Meaning", "content": "Picture" },
+                    { "label": "Example", "content": "計画 (けいかく) - Plan\n漫画 (まんが) - Comic" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "院" },
+                    { "label": "Readings", "content": "イン" },
+                    { "label": "Meaning", "content": "Institution" },
+                    { "label": "Example", "content": "病院 (びょういん) - Hospital\n大学院 (だいがくいん) - Graduate School" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "歌" },
+                    { "label": "Readings", "content": "うた、うた-う / カ" },
+                    { "label": "Meaning", "content": "Song, To Sing" },
+                    { "label": "Example", "content": "歌う (うたう) - To Sing\n歌手 (かしゅ) - Singer" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "市" },
+                    { "label": "Readings", "content": "いち / シ" },
+                    { "label": "Meaning", "content": "City, Town, Market" },
+                    { "label": "Example", "content": "市民 (しみん) - Citizen\n市場 (しじょう) - Market" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "所" },
+                    { "label": "Readings", "content": "ところ / ショ" },
+                    { "label": "Meaning", "content": "Place" },
+                    { "label": "Example", "content": "場所 (ばしょ) - Place\n住所 (じゅうしょ) - Address" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "勉" },
+                    { "label": "Readings", "content": "つと-める / ベン" },
+                    { "label": "Meaning", "content": "Exertion, Endeavor" },
+                    { "label": "Example", "content": "勤勉な (きんべんな) - Diligent\n勉強 (べんきょう) - Study" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "強" },
+                    { "label": "Readings", "content": "つよ-い / キョウ、ゴウ" },
+                    { "label": "Meaning", "content": "Strong" },
+                    { "label": "Example", "content": "強い (つよい) - Strong\n勉強 (べんきょう) - Study" }
+                ] 
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "有" },
+                    { "label": "Readings", "content": "あ-る / ユウ、ウ" },
+                    { "label": "Meaning", "content": "Exist" },
+                    { "label": "Example", "content": "有名な (ゆうめいな) - Famous\n有効な (ゆうこうな) - Effective, Valid" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "旅" },
+                    { "label": "Readings", "content": "たび / リョ" },
+                    { "label": "Meaning", "content": "Trip, Travel" },
+                    { "label": "Example", "content": "旅行 (りょこう) - Travel\n旅館 (りょかん) - Traditional Japanese Inn" }
+                ]
+            }
+        ]
+    },
+    {
+        "lesson": 12,
+        "title": "GENKI - Lesson 12 Kanji",
+        "description": "七夕 - Tanabata Festival",
+        "folder": "GENKI Kanji (Japanese)",
+        "cards": [
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "昔" },
+                    { "label": "Readings", "content": "むかし / セキ、シャク" },
+                    { "label": "Meaning", "content": "Old Times, Once Upon A Time" },
+                    { "label": "Example", "content": "昔 (むかし) - Old times\n昔話 (むかしばなし) - Old story" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "神" },
+                    { "label": "Readings", "content": "かみ / シン、ジン" },
+                    { "label": "Meaning", "content": "God" },
+                    { "label": "Example", "content": "神社 (ジンジャ) - Shrine\n神様 (カミ-sama) - God" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "早" },
+                    { "label": "Readings", "content": "はや-い / ソウ、サッ" },
+                    { "label": "Meaning", "content": "Early" },
+                    { "label": "Example", "content": "早い (はやい) - Early\n早朝 (そうちょう) - Early Morning" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "起" },
+                    { "label": "Readings", "content": "お-きる、お-こる / キ" },
+                    { "label": "Meaning", "content": "To Wake Up" },
+                    { "label": "Example", "content": "起きる (おきる) - To Wake Up\n起こる (おこる) - To Happen" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "牛" },
+                    { "label": "Readings", "content": "うし / ギュウ" },
+                    { "label": "Meaning", "content": "Cow" },
+                    { "label": "Example", "content": "牛 (うし) - Cow\n牛乳 (ぎゅうにゅう) - Milk" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "使" },
+                    { "label": "Readings", "content": "つか-う / シ" },
+                    { "label": "Meaning", "content": "To Use" },
+                    { "label": "Example", "content": "使う (つかう) - To Use\n使用 (しよう) - Use (noun)" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "働" },
+                    { "label": "Readings", "content": "はたら-く / ドウ" },
+                    { "label": "Meaning", "content": "To Work" },
+                    { "label": "Example", "content": "働く (はたらく) - To Work\n労働 (ろうどう) - Labor" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "連" },
+                    { "label": "Readings", "content": "つら-なる、つら-ねる、つ-れる / レン" },
+                    { "label": "Meaning", "content": "To Join, To Connect" },
+                    { "label": "Example", "content": "連絡 (れんらく) - Contact\n関連 (かんれん) - Related, Relation" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "別" },
+                    { "label": "Readings", "content": "わか-れる、わ-ける / ベツ" },
+                    { "label": "Meaning", "content": "To Separate" },
+                    { "label": "Example", "content": "別れる (わかれる) - To Separate, To Break Up\n特別な (とくべつな) - Special" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "度" },
+                    { "label": "Readings", "content": "たび / ド、ト、タク" },
+                    { "label": "Meaning", "content": "Degree" },
+                    { "label": "Example", "content": "度 (ど) - Degree, Level\n温度 (おんど) - Temperature" }
+                ]
+            },
+            {
+                "facets": [
+                    {"label": "Kanji", "content": "赤"},
+                    {"label": "Readings", "content": "あか、あか-い / セキ、シャク"},
+                    {"label": "Meaning", "content": "Red"},
+                    {"label": "Example", "content": "赤い (あかい) - Red (adjective)\n赤ちゃん (あかちゃん) - Baby"}
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "青" },
+                    { "label": "Readings", "content": "あお、あお-い / セイ、ショウ" },
+                    { "label": "Meaning", "content": "Blue" },
+                    { "label": "Example", "content": "青い (あおい) - Blue (adjective)\n青信号 (あおしんごう) - Green Traffic Light" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "色" },
+                    { "label": "Readings", "content": "いろ / ショク、シキ" },
+                    { "label": "Meaning", "content": "Color" },
+                    { "label": "Example", "content": "色々な (いろいろな) - Various\n黄色 (きいろ) - Yellow" }
+                ]
+            }
+        ]
+    },
+    {
+        "lesson": 13,
+        "title": "GENKI - Lesson 13 Kanji",
+        "description": "日本のおもしろい体験 - Interesting Experiences in Japan",
+        "folder": "GENKI Kanji (Japanese)",
+        "cards": [
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "物" },
+                    { "label": "Readings", "content": "もの / ブツ" },
+                    { "label": "Meaning", "content": "Thing" },
+                    { "label": "Example", "content": "買い物 (かいもの) - Shopping\n食べ物 (たべもの) - Food" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "鳥" },
+                    { "label": "Readings", "content": "とり / チョウ" },
+                    { "label": "Meaning", "content": "Bird" },
+                    { "label": "Example", "content": "鳥 (とり) - Bird\n焼き鳥 (やきとり) - Grilled Bird" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "料" },
+                    { "label": "Readings", "content": "リョウ" },
+                    { "label": "Meaning", "content": "Ingredients, Fare" },
+                    { "label": "Example", "content": "料金 (りょうきん) - Fee\n料理 (りょうり) - Cooking" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "理" },
+                    { "label": "Readings", "content": "リ" },
+                    { "label": "Meaning", "content": "Reason" },
+                    { "label": "Example", "content": "料理 (りょうり) - Cooking\n理由 (りゆう) - Reason" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "特" },
+                    { "label": "Readings", "content": "トク、トッ" },
+                    { "label": "Meaning", "content": "Special" },
+                    { "label": "Example", "content": "特別 (とくべつ) - Special\n特に (とくに) - Especially" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "安" },
+                    { "label": "Readings", "content": "やすい / アン" },
+                    { "label": "Meaning", "content": "Cheap, Ease" },
+                    { "label": "Example", "content": "安い (やすい) - Cheap\n安全な (あんぜんな) - Safe" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "飯" },
+                    { "label": "Readings", "content": "ハン" },
+                    { "label": "Meaning", "content": "Food, Cooked Rice" },
+                    { "label": "Example", "content": "ご飯 (ごはん) - Rice, Meal\n朝ご飯 (あさごはん) - Breakfast" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "肉" },
+                    { "label": "Readings", "content": "にく" },
+                    { "label": "Meaning", "content": "Meat" },
+                    { "label": "Example", "content": "肉 (にく) - Meat\n牛肉 (ぎゅうにく) - Beef" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "悪" },
+                    { "label": "Readings", "content": "わる / アク" },
+                    { "label": "Meaning", "content": "Bad, Wrong" },
+                    { "label": "Example", "content": "悪い (わるい) - Bad\n気分が悪い (きぶんがわるい) - to feel sick" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "体" },
+                    { "label": "Readings", "content": "からだ / タイ" },
+                    { "label": "Meaning", "content": "Body" },
+                    { "label": "Example", "content": "体 (からだ) - Body\n体重 (たいじゅう) - Body Weight" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "同" },
+                    { "label": "Readings", "content": "おな-じ / ドウ" },
+                    { "label": "Meaning", "content": "Same" },
+                    { "label": "Example", "content": "同じ (おなじ) - Same\n同僚 (どうりょう) - Colleague" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "着" },
+                    { "label": "Readings", "content": "き-る、つ-く、ぎ / チャク" },
+                    { "label": "Meaning", "content": "To Reach, To Wear" },
+                    { "label": "Example", "content": "着く (つく) - To Arrive\n着る (きる) - To Wear" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "空" },
+                    { "label": "Readings", "content": "そら、あ-き、から / クウ" },
+                    { "label": "Meaning", "content": "Sky, Empty" },
+                    { "label": "Example", "content": "空港 (くうこう) - Airport\n空気 (くうき) - Air" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "港" },
+                    { "label": "Readings", "content": "みなと / コウ" },
+                    { "label": "Meaning", "content": "Harbor, Port" },
+                    { "label": "Example", "content": "空港 (くうこう) - Airport\n神戸港 (こうべこう) - Kobe Port" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "昼" },
+                    { "label": "Readings", "content": "ひる / チュウ" },
+                    { "label": "Meaning", "content": "Daytime, Noon" },
+                    { "label": "Example", "content": "昼 (ひる) - Day\n昼ご飯 (ひるごはん) - Lunch" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "海" },
+                    { "label": "Readings", "content": "うみ / カイ" },
+                    { "label": "Meaning", "content": "Sea" },
+                    { "label": "Example", "content": "海 (うみ) - Sea\n海外 (かいがい) - Overseas" }
+                ]
+            }
+        ]
+    },
+    {
+        "lesson": 14,
+        "title": "GENKI - Lesson 14 Kanji",
+        "description": "悩みの相談 - Personal Advice Column",
+        "folder": "GENKI Kanji (Japanese)",
+        "cards": [
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "彼" },
+                    { "label": "Readings", "content": "かれ、かの" },
+                    { "label": "Meaning", "content": "He" },
+                    { "label": "Example", "content": "彼 (かれ) - He, Boyfriend\n彼女 (かのじょ) - She, Girlfriend" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "代" },
+                    { "label": "Readings", "content": "か / ダイ" },
+                    { "label": "Meaning", "content": "Age, Replace" },
+                    { "label": "Example", "content": "時代 (じだい) - Age, Era\n電気代 (でんきだい) - Electric Fee" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "留" },
+                    { "label": "Readings", "content": "リュウ、ル" },
+                    { "label": "Meaning", "content": "To Stay, To Keep" },
+                    { "label": "Example", "content": "留学生 (りゅうがくせい) - International Student\n留学する (りゅうがくする) - To Study Abroad" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "族" },
+                    { "label": "Readings", "content": "ゾク" },
+                    { "label": "Meaning", "content": "Family, Tribe" },
+                    { "label": "Example", "content": "家族 (かぞく) - Family\n民族 (みんぞく) - Ethnic Group" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "親" },
+                    { "label": "Readings", "content": "おや、した-しい / シン" },
+                    { "label": "Meaning", "content": "Parent, Intimacy" },
+                    { "label": "Example", "content": "父親 (ちちおや) - Father\n親切な (しんせつな) - Kind" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "切" },
+                    { "label": "Readings", "content": "き-る、きっ / セツ" },
+                    { "label": "Meaning", "content": "To Cut" },
+                    { "label": "Example", "content": "親切な (しんせつな) - Kind\n切る (きる) - To Cut" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "英" },
+                    { "label": "Readings", "content": "エイ" },
+                    { "label": "Meaning", "content": "English, Excellent" },
+                    { "label": "Example", "content": "英語 (えいご) - English Language\n英国 (えいこく) - United Kingdom" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "店" },
+                    { "label": "Readings", "content": "みせ / テン" },
+                    { "label": "Meaning", "content": "Shop" },
+                    { "label": "Example", "content": "店 (みせ) - Store\n店員 (てんいん) - Store Clerk" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "去" },
+                    { "label": "Readings", "content": "さ-る / キョ、コ" },
+                    { "label": "Meaning", "content": "Past, To Leave" },
+                    { "label": "Example", "content": "去年 (きょねん) - Last Year\n去る (さる) - To Leave" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "急" },
+                    { "label": "Readings", "content": "いそ-ぐ / キュウ" },
+                    { "label": "Meaning", "content": "To Hurry, Emergency" },
+                    { "label": "Example", "content": "急に (きゅうに) - Suddenly\n急ぐ (いそぐ) - To Hurry" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "乗" },
+                    { "label": "Readings", "content": "の-る / ジョウ" },
+                    { "label": "Meaning", "content": "To Ride" },
+                    { "label": "Example", "content": "乗る (のる) - To Board\n乗り物 (のりもの) - Vehicle" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "当" },
+                    { "label": "Readings", "content": "あ-たる / トウ" },
+                    { "label": "Meaning", "content": "To Hit" },
+                    { "label": "Example", "content": "本当に (ほんとうに) - Really\n当たる (あたる) - To Hit" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "音" },
+                    { "label": "Readings", "content": "おと、ね / オン" },
+                    { "label": "Meaning", "content": "Sound" },
+                    { "label": "Example", "content": "音 (おと) - Sound\n音楽 (おんがく) - Music" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "楽" },
+                    { "label": "Readings", "content": "たの-しい / ガク、ガッ、ラク" },
+                    { "label": "Meaning", "content": "Pleasure" },
+                    { "label": "Example", "content": "楽しい (たのしい) - Fun\n音楽 (おんがく) - Music" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "医" },
+                    { "label": "Readings", "content": "イ" },
+                    { "label": "Meaning", "content": "Doctor, Medicine" },
+                    { "label": "Example", "content": "医者 (いしゃ) - Doctor\n医学 (いがく) - Medical Science" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "者" },
+                    { "label": "Readings", "content": "もの / シャ、ジャ" },
+                    { "label": "Meaning", "content": "Person" },
+                    { "label": "Example", "content": "医者 (いしゃ) - Doctor\n学者 (がくしゃ) - Scholar" }
+                ]
+            }
+        ]
+    },
+    {
+        "lesson": 15,
+        "title": "GENKI - Lesson 15 Kanji",
+        "description": "私が好きなところ - My Favorite Place",
+        "folder": "GENKI Kanji (Japanese)",
+        "cards":[
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "死" },
+                    { "label": "Readings", "content": "し-ぬ / シ" },
+                    { "label": "Meaning", "content": "Death" },
+                    { "label": "Example", "content": "死ぬ (しぬ) - To Die\n死 (し) - Death" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "意" },
+                    { "label": "Readings", "content": "イ" },
+                    { "label": "Meaning", "content": "Mind, Meaning" },
+                    { "label": "Example", "content": "意味 (いみ) - Meaning\n注意する (ちゅういする) - To Watch Out" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "味" },
+                    { "label": "Readings", "content": "あじ / ミ" },
+                    { "label": "Meaning", "content": "Flavor, Taste" },
+                    { "label": "Example", "content": "意味 (いみ) - Meaning\n趣味 (しゅみ) - Hobby" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "注" },
+                    { "label": "Readings", "content": "そそ-ぐ / チュウ" },
+                    { "label": "Meaning", "content": "To Pour, To Shed" },
+                    { "label": "Example", "content": "注意する (ちゅういする) - To Watch Out\n注文する (ちゅうもんする) - To Order" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "夏" },
+                    { "label": "Readings", "content": "なつ / カ" },
+                    { "label": "Meaning", "content": "Summer" },
+                    { "label": "Example", "content": "夏 (なつ) - Summer\n夏休み (なつやすみ) - Summer Vacation" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "魚" },
+                    { "label": "Readings", "content": "さかな、うお / ギョ" },
+                    { "label": "Meaning", "content": "Fish" },
+                    { "label": "Example", "content": "魚 (さかな) - Fish\n金魚 (きんぎょ) - Goldfish" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "寺" },
+                    { "label": "Readings", "content": "てら、でら / ジ" },
+                    { "label": "Meaning", "content": "Temple" },
+                    { "label": "Example", "content": "お寺 (おてら) - Temple\n東寺 (とうじ) - Toji (the name of a temple)" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "広" },
+                    { "label": "Readings", "content": "ひろ-い / コウ" },
+                    { "label": "Meaning", "content": "Wide, Spacious" },
+                    { "label": "Example", "content": "広い (ひろい) - Wide, Spacious\n広島 (ひろしま) - Hiroshima" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "足" },
+                    { "label": "Readings", "content": "た、あし / ソク" },
+                    { "label": "Meaning", "content": "Foot, Leg" },
+                    { "label": "Example", "content": "足 (あし) - Foot\n足りる (たりる) - To Be Sufficient" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "転" },
+                    { "label": "Readings", "content": "ころ / テン" },
+                    { "label": "Meaning", "content": "To Roll Over" },
+                    { "label": "Example", "content": "自転車 (じてんしゃ) - Bicycle\n運転する (うんてんする) - To Drive" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "借" },
+                    { "label": "Readings", "content": "か / シャク、シャッ" },
+                    { "label": "Meaning", "content": "To Borrow" },
+                    { "label": "Example", "content": "借りる (かりる) - To Borrow\n借家 (しゃくや) - Rented House" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "走" },
+                    { "label": "Readings", "content": "はし / ソウ" },
+                    { "label": "Meaning", "content": "To Run" },
+                    { "label": "Example", "content": "走る (はしる) - To Run\n走り書き (はしりがき) - Hasty Writing" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "場" },
+                    { "label": "Readings", "content": "ば / ジョウ" },
+                    { "label": "Meaning", "content": "Place" },
+                    { "label": "Example", "content": "場所 (ばしょ) - Place\n工場 (こうじょう) - Factory" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "建" },
+                    { "label": "Readings", "content": "たて、た / ケン" },
+                    { "label": "Meaning", "content": "To Build" },
+                    { "label": "Example", "content": "建物 (たてもの) - Building\n建てる (たてる) - To Build" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "地" },
+                    { "label": "Readings", "content": "チ、ジ" },
+                    { "label": "Meaning", "content": "Ground" },
+                    { "label": "Example", "content": "地下 (ちか) - Underground\n地球 (ちきゅう) - Earth" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "通" },
+                    { "label": "Readings", "content": "とお、かよ / ツウ" },
+                    { "label": "Meaning", "content": "To Pass, To Commute" },
+                    { "label": "Example", "content": "通る (とおる) - Street\n通う (かよう) - To Commute" }
+                ]
+            }
+        ]
+    },
+    {
+        "lesson": 16,
+        "title": "GENKI - Lesson 16 Kanji",
+        "description": "まんが「ドラえもん」 - The Manga Doraemon",
+        "folder": "GENKI Kanji (Japanese)",
+        "cards":[
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "供" },
+                    { "label": "Readings", "content": "ども、そな / キョウ" },
+                    { "label": "Meaning", "content": "Companion, Offer" },
+                    { "label": "Example", "content": "子供 (こども) - Child\n供える (そなえる) - to offer something to a spirit" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "世" },
+                    { "label": "Readings", "content": "よ / セ、セイ" },
+                    { "label": "Meaning", "content": "World, Generation" },
+                    { "label": "Example", "content": "世界 (せかい) - World\n世話 (せわ) - care" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "界" },
+                    { "label": "Readings", "content": "カイ" },
+                    { "label": "Meaning", "content": "World" },
+                    { "label": "Example", "content": "世界 (せかい) - World\n視界 (しかい) - Visibility" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "全" },
+                    { "label": "Readings", "content": "まった、すべ / ゼン" },
+                    { "label": "Meaning", "content": "All" },
+                    { "label": "Example", "content": "全部 (ぜんぶ) - All\n安全 (あんぜん) - Safety" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "始" },
+                    { "label": "Readings", "content": "はじ / シ" },
+                    { "label": "Meaning", "content": "To Begin" },
+                    { "label": "Example", "content": "始まる (はじまる) - (something) begins\n始める (はじめる) - to begin (something)" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "週" },
+                    { "label": "Readings", "content": "シュウ" },
+                    { "label": "Meaning", "content": "Week" },
+                    { "label": "Example", "content": "毎週 (まいしゅう) - Every Week\n先週 (せんしゅう) - Last Week" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "考" },
+                    { "label": "Readings", "content": "かんが / コウ" },
+                    { "label": "Meaning", "content": "To Think, Idea" },
+                    { "label": "Example", "content": "考える (かんがえる) - to think\n参考 (さんこう) - reference" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "開" },
+                    { "label": "Readings", "content": "ひら、あ / カイ" },
+                    { "label": "Meaning", "content": "To Open" },
+                    { "label": "Example", "content": "開く (ひらく) - (something) opens\n開ける (あける) - to open (something)" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "屋" },
+                    { "label": "Readings", "content": "や / オク" },
+                    { "label": "Meaning", "content": "House, Shop" },
+                    { "label": "Example", "content": "部屋 (へや) - Room\n本屋 (ほんや) - Bookstore" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "方" },
+                    { "label": "Readings", "content": "かた、がた / ホウ" },
+                    { "label": "Meaning", "content": "Direction, Person" },
+                    { "label": "Example", "content": "味方 (みかた) - Ally, Person on one's side\n方法 (ほうほう) - Method" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "運" },
+                    { "label": "Readings", "content": "はこ / ウン" },
+                    { "label": "Meaning", "content": "To Carry, Luck" },
+                    { "label": "Example", "content": "運転 (うんてん) - Driving\n運動 (うんどう) - Exercise" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "動" },
+                    { "label": "Readings", "content": "うご / ドウ" },
+                    { "label": "Meaning", "content": "To Move" },
+                    { "label": "Example", "content": "運動 (うんどう) - Exercise\n動く (うごく) - To Move" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "教" },
+                    { "label": "Readings", "content": "おし / キョウ" },
+                    { "label": "Meaning", "content": "To Teach" },
+                    { "label": "Example", "content": "教える (おしえる) - to teach\n教室 (きょうしつ) - Classroom" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "室" },
+                    { "label": "Readings", "content": "シツ" },
+                    { "label": "Meaning", "content": "Room" },
+                    { "label": "Example", "content": "教室 (きょうしつ) - Classroom\n研究室 (けんきゅうしつ) - Professor's Office" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "以" },
+                    { "label": "Readings", "content": "イ" },
+                    { "label": "Meaning", "content": "By Means of, Compared With" },
+                    { "label": "Example", "content": "以外 (いがい) - Other Than\n以上 (いじょう) - Or More" }
+                ]
+            }
+        ]
+    },
+    {
+        "lesson": 17,
+        "title": "GENKI - Lesson 17 Kanji",
+        "description": "オノ・ヨーコ - Yoko Ono",
+        "folder": "GENKI Kanji (Japanese)",
+        "cards":[
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "野" },
+                    { "label": "Readings", "content": "の / ヤ" },
+                    { "label": "Meaning", "content": "Field" },
+                    { "label": "Example", "content": "分野 (ぶんや) - Field, Realm\n小野さん (おのさん) - Mrs. Ono" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "習" },
+                    { "label": "Readings", "content": "なら / シュウ" },
+                    { "label": "Meaning", "content": "To Learn" },
+                    { "label": "Example", "content": "習う (ならう) - To Learn\n習字 (しゅうじ) - calligraphy" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "主" },
+                    { "label": "Readings", "content": "おも、ぬし / シュ" },
+                    { "label": "Meaning", "content": "Main, Owner" },
+                    { "label": "Example", "content": "主に (おもに) - Mainly\nご主人 (ごしゅじん) - Husband" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "歳" },
+                    { "label": "Readings", "content": "サイ、セイ" },
+                    { "label": "Meaning", "content": "Age, Year" },
+                    { "label": "Example", "content": "二十五歳 (にじゅうごさい) - 25 years old\nお歳暮 (おせいぼ) - Year-end Gift" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "集" },
+                    { "label": "Readings", "content": "あつ / シュウ" },
+                    { "label": "Meaning", "content": "To Gather" },
+                    { "label": "Example", "content": "特集 (とくしゅう) - (magazine) feature\n集める (あつめる) - To Collect" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "発" },
+                    { "label": "Readings", "content": "ハツ、ハッ、パツ" },
+                    { "label": "Meaning", "content": "To Start, To reveal" },
+                    { "label": "Example", "content": "発表する (はっぴょうする) - To make public, to give a presentation\n発音 (はつおん) - Pronunciation" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "表" },
+                    { "label": "Readings", "content": "おもて、あらわ / ヒョウ、ピョウ" },
+                    { "label": "Meaning", "content": "Surface, To Express" },
+                    { "label": "Example", "content": "発表する (はっぴょうする) - To make public, to give a presentation\n表す (あらわす) - To Express" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "品" },
+                    { "label": "Readings", "content": "しな、じな / ヒン" },
+                    { "label": "Meaning", "content": "Goods, Refinement" },
+                    { "label": "Example", "content": "作品 (さくひん) - work (of art)\n上品な (じょうひんな) - Elegant" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "写" },
+                    { "label": "Readings", "content": "うつ / シャ" },
+                    { "label": "Meaning", "content": "To Copy" },
+                    { "label": "Example", "content": "写真 (しゃしん) - Photograph\n写す (うつす) - To Copy" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "真" },
+                    { "label": "Readings", "content": "ま / シン" },
+                    { "label": "Meaning", "content": "True, Reality" },
+                    { "label": "Example", "content": "写真 (しゃしん) - Photograph\n真ん中 (まんなか) - Center" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "字" },
+                    { "label": "Readings", "content": "ジ" },
+                    { "label": "Meaning", "content": "Character, Letter" },
+                    { "label": "Example", "content": "文字 (もじ) - Character\n赤字 (あかじ) - Deficit" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "活" },
+                    { "label": "Readings", "content": "カツ、カッ" },
+                    { "label": "Meaning", "content": "Lively" },
+                    { "label": "Example", "content": "生活 (せいかつ) - Life, Living\n活動 (かつどう) - Activity" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "結" },
+                    { "label": "Readings", "content": "コン" },
+                    { "label": "Meaning", "content": "To tie, To join" },
+                    { "label": "Example", "content": "結婚する (けっこんする) - To get married\n結果 (けっか) - Result" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "婚" },
+                    { "label": "Readings", "content": "コン" },
+                    { "label": "Meaning", "content": "Marriage" },
+                    { "label": "Example", "content": "結婚する (けっこんする) - To get married\n離婚 (りこん) - Divorce" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "歩" },
+                    { "label": "Readings", "content": "ある / ホ、ポ" },
+                    { "label": "Meaning", "content": "To Walk" },
+                    { "label": "Example", "content": "歩く (あるく) - To Walk\n歩道 (ほどう) - Sidewalk" }
+                ]
+            }
+        ]
+    },
+    {
+        "lesson": 18,
+        "title": "GENKI - Lesson 18 Kanji",
+        "description": "大学生活 - College Life",
+        "folder": "GENKI Kanji (Japanese)",
+        "cards":[
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "目" },
+                    { "label": "Readings", "content": "め / モク" },
+                    { "label": "Meaning", "content": "Eye" },
+                    { "label": "Example", "content": "目的（もくてき） - Purpose\n目 (め) - Eyes" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "的" },
+                    { "label": "Readings", "content": "まと / テキ" },
+                    { "label": "Meaning", "content": "Target, -ish" },
+                    { "label": "Example", "content": "目的（もくてき） - Purpose\n現代的 (げんだいてき) - Modern" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "洋" },
+                    { "label": "Readings", "content": "ヨウ" },
+                    { "label": "Meaning", "content": "ocean, overseas" },
+                    { "label": "Example", "content": "洋服 (ようふく) - Western Clothes\n東洋 (とうよう) - The Eastern" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "服" },
+                    { "label": "Readings", "content": "フク" },
+                    { "label": "Meaning", "content": "Clothes" },
+                    { "label": "Example", "content": "服 (ふく) - Clothes\n洋服 (ようふく) - (Western) Clothes" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "堂" },
+                    { "label": "Readings", "content": "ドウ" },
+                    { "label": "Meaning", "content": "Hall" },
+                    { "label": "Example", "content": "食堂 (しょくどう) - Cafeteria\n公会堂 (こうかいどう) - Public Hall" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "力" },
+                    { "label": "Readings", "content": "ちから / リキ、リョク" },
+                    { "label": "Meaning", "content": "Power" },
+                    { "label": "Example", "content": "力仕事 (ちからしごと) - Physical Labor\n協力 (きょうりょく) - Cooperation" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "授" },
+                    { "label": "Readings", "content": "さず / ジュ" },
+                    { "label": "Meaning", "content": "to instruct" },
+                    { "label": "Example", "content": "授業 (じゅぎょう) - Class\n教授 (きょうじゅ) - Professor" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "業" },
+                    { "label": "Readings", "content": "ギョウ" },
+                    { "label": "Meaning", "content": "Business, Vocation" },
+                    { "label": "Example", "content": "授業 (じゅぎょう) - Class\n職業 (しょくぎょう) - Occupation" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "試" },
+                    { "label": "Readings", "content": "こころ / シ" },
+                    { "label": "Meaning", "content": "To Try, To Test" },
+                    { "label": "Example", "content": "試験 (しけん) - Exam\n試合 (しあい) - Match, game" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "験" },
+                    { "label": "Readings", "content": "ケン" },
+                    { "label": "Meaning", "content": "to examine" },
+                    { "label": "Example", "content": "試験 (しけん) - Exam\n実験 (じっけん) - Experiment" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "貸" },
+                    { "label": "Readings", "content": "たい / カ" },
+                    { "label": "Meaning", "content": "To Lend, loan" },
+                    { "label": "Example", "content": "貸す (かす) - To lend\n貸し出し (かしだし) - lending   " }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "図" },
+                    { "label": "Readings", "content": "はか / ト、ズ" },
+                    { "label": "Meaning", "content": "drawing, to devise" },
+                    { "label": "Example", "content": "図書館 (としょかん) - Library\n地図 (ちず) - Map" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "館" },
+                    { "label": "Readings", "content": "カン" },
+                    { "label": "Meaning", "content": "Building, Hall" },
+                    { "label": "Example", "content": "図書館 (としょかん) - Library\n映画館 (えいがかん) - Movie Theater" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "終" },
+                    { "label": "Readings", "content": "お / シュウ" },
+                    { "label": "Meaning", "content": "End" },
+                    { "label": "Example", "content": "終わる (おわる) - to come to an end\n終わり (おわり) - End" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "宿" },
+                    { "label": "Readings", "content": "やど / シュク" },
+                    { "label": "Meaning", "content": "inn, to lodge in" },
+                    { "label": "Example", "content": "宿題 (しゅくだい) - Homework\n宿泊 (しゅくはく) - lodging" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "題" },
+                    { "label": "Readings", "content": "ダイ" },
+                    { "label": "Meaning", "content": "Topic, Title" },
+                    { "label": "Example", "content": "宿題 (しゅくだい) - Homework\n問題 (もんだい) - Problem, Question" }
+                ]
+            }
+        ]
+    },
+    {
+        "lesson": 19,
+        "title": "GENKI - Lesson 19 Kanji",
+        "description": "手紙とメール - Letters and Emails",
+        "folder": "GENKI Kanji (Japanese)",
+        "cards":[
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "春" },
+                    { "label": "Readings", "content": "はる / シュン" },
+                    { "label": "Meaning", "content": "Spring" },
+                    { "label": "Example", "content": "春 (はる) - Spring\n春巻 (はるまき) - Spring roll" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "秋" },
+                    { "label": "Readings", "content": "あき / シュウ" },
+                    { "label": "Meaning", "content": "Autumn" },
+                    { "label": "Example", "content": "秋 (あき) - Autumn\n秋学期 (あきがっき) - fall semester" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "冬" },
+                    { "label": "Readings", "content": "ふゆ / トウ" },
+                    { "label": "Meaning", "content": "Winter" },
+                    { "label": "Example", "content": "冬 (ふゆ) - Winter\n冬休み (ふゆやすみ) - Winter Vacation" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "花" },
+                    { "label": "Readings", "content": "はな、ばな / カ" },
+                    { "label": "Meaning", "content": "Flower" },
+                    { "label": "Example", "content": "花 (はな) - Flower\n花見 (はなみ) - (flower) Cherry Blossom Viewing" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "様" },
+                    { "label": "Readings", "content": "さま / ヨウ" },
+                    { "label": "Meaning", "content": "Mr., Mrs., Condition" },
+                    { "label": "Example", "content": "～様 (～さま) - Mr./Mrs.\nお客様 (おきゃくさま) - Customer (respectful)" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "不" },
+                    { "label": "Readings", "content": "フ、ブ" },
+                    { "label": "Meaning", "content": "Non-, negative" },
+                    { "label": "Example", "content": "不安な (ふあんな) - Uneasy\n不景気 (ふけいき) - recession" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "姉" },
+                    { "label": "Readings", "content": "あね、ねえ / シ" },
+                    { "label": "Meaning", "content": "Older sister" },
+                    { "label": "Example", "content": "姉 (あね) - Older sister\nお姉さん (おねえさん) - Older sister" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "兄" },
+                    { "label": "Readings", "content": "あに、にい / キョウ" },
+                    { "label": "Meaning", "content": "Older brother" },
+                    { "label": "Example", "content": "兄 (あに) - Older brother\nお兄さん (おにいさん) - Older brother" }
+                ]
+            },  
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "漢" },
+                    { "label": "Readings", "content": "カン" },
+                    { "label": "Meaning", "content": "Chinese" },
+                    { "label": "Example", "content": "漢字 (かんじ) - Chinese characters\n漢方薬 (かんぽうやく) - Chinese herbal medicine" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "卒" },
+                    { "label": "Readings", "content": "ソツ" },
+                    { "label": "Meaning", "content": "to graduate" },
+                    { "label": "Example", "content": "卒業する (そつぎょうする) - to graduate\n卒業式 (そつぎょうしき) - Graduation Ceremony" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "工" },
+                    { "label": "Readings", "content": "コウ、ク" },
+                    { "label": "Meaning", "content": "craft, construction" },
+                    { "label": "Example", "content": "工学 (こうがく) - Engineering\n工事 (こうじ) - Construction" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "研" },
+                    { "label": "Readings", "content": "と / ケン" },
+                    { "label": "Meaning", "content": "to polish, to study" },
+                    { "label": "Example", "content": "研究 (けんきゅう) - Research\n研究者 (けんきゅうしゃ) - Researcher" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "究" },
+                    { "label": "Readings", "content": "きわ / キュウ" },
+                    { "label": "Meaning", "content": "to research" },
+                    { "label": "Example", "content": "研究 (けんきゅう) - Research\n探求 (たんきゅう) - inquiry" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "質" },
+                    { "label": "Readings", "content": "シツ、シチ" },
+                    { "label": "Meaning", "content": "quality, matter" },
+                    { "label": "Example", "content": "質問 (しつもん) - Question\n質がいい (しつがいい) - good quality" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "問" },
+                    { "label": "Readings", "content": "と / モン" },
+                    { "label": "Meaning", "content": "question, problem" },
+                    { "label": "Example", "content": "質問 (しつもん) - Question\n問題 (もんだい) - Problem" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "多" },
+                    { "label": "Readings", "content": "おお / タ" },
+                    { "label": "Meaning", "content": "many, much" },
+                    { "label": "Example", "content": "多い (おおい) - many\n多分 (たぶん) - probably" }
+                ]
+            }
+        ]
+    },
+    {
+        "lesson": 20,
+        "title": "GENKI - Lesson 20 Kanji",
+        "description": "猫の皿 - A Cat's Plate",
+        "folder": "GENKI Kanji (Japanese)",
+        "cards":[
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "皿" },
+                    { "label": "Readings", "content": "さら、ざら" },
+                    { "label": "Meaning", "content": "Plate" },
+                    { "label": "Example", "content": "皿 (さら) - Plate, dish\n紙皿 (かみざら) - Paper plate" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "声" },
+                    { "label": "Readings", "content": "こえ / セイ" },
+                    { "label": "Meaning", "content": "Voice" },
+                    { "label": "Example", "content": "声 (こえ) - Voice\n音声学 (おんせいがく) - phonetics" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "茶" },
+                    { "label": "Readings", "content": "チャ、サ" },
+                    { "label": "Meaning", "content": "Tea" },
+                    { "label": "Example", "content": "お茶 (ちゃ) - Japanese tea\n茶店 (ちゃみせ) - Tea house" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "止" },
+                    { "label": "Readings", "content": "と / シ" },
+                    { "label": "Meaning", "content": "To Stop" },
+                    { "label": "Example", "content": "止まる (とまる) - (something) stops\n中止する (ちゅうしする) - To cancel" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "枚" },
+                    { "label": "Readings", "content": "マイ" },
+                    { "label": "Meaning", "content": "sheet of..." },
+                    { "label": "Example", "content": "一枚 (いちまい) - One sheet\n枚数 (まいすう) - Number of flat things" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "両" },
+                    { "label": "Readings", "content": "リョウ" },
+                    { "label": "Meaning", "content": "Both" },
+                    { "label": "Example", "content": "三両 (さんりょう) - three ryoo\n両親 (りょうしん) - parents" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "無" },
+                    { "label": "Readings", "content": "な / ム、ブ" },
+                    { "label": "Meaning", "content": "None" },
+                    { "label": "Example", "content": "無理な (むりな) - impossible\n無駄な (むだな) - wasteful" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "払" },
+                    { "label": "Readings", "content": "はら、ばら" },
+                    { "label": "Meaning", "content": "to pay" },
+                    { "label": "Example", "content": "払う (はらう) - to pay\n支払い (しはらい) - payment" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "心" },
+                    { "label": "Readings", "content": "こころ / シン" },
+                    { "label": "Meaning", "content": "Heart, Mind" },
+                    { "label": "Example", "content": "心 (こころ) - Heart, Mind\n心配する (しんぱい) - To worry" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "笑" },
+                    { "label": "Readings", "content": "わら、え / ショウ" },
+                    { "label": "Meaning", "content": "To Laugh" },
+                    { "label": "Example", "content": "笑う (わらう) - To laugh\n笑顔 (えがお) - Smiling face" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "絶" },
+                    { "label": "Readings", "content": "た / ゼツ、ゼッ" },
+                    { "label": "Meaning", "content": "To discontinue" },
+                    { "label": "Example", "content": "絶える (たえる) - To die out\n絶対に (ぜったいに) - Absolutely" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "対" },
+                    { "label": "Readings", "content": "タイ、ツイ" },
+                    { "label": "Meaning", "content": "Opposite" },
+                    { "label": "Example", "content": "絶対に (ぜったいに) - definitely\n反対する (はんたいする) - To oppose" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "痛" },
+                    { "label": "Readings", "content": "いた / ツウ" },
+                    { "label": "Meaning", "content": "Pain" },
+                    { "label": "Example", "content": "痛い (いたい) - Painful\n痛み止め (いたみどめ) - Painkiller" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "最" },
+                    { "label": "Readings", "content": "もっと / サイ" },
+                    { "label": "Meaning", "content": "utmost" },
+                    { "label": "Example", "content": "最悪 (さいあく) - the worst\n最初 (さいしょ) - recently" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "続" },
+                    { "label": "Readings", "content": "つづ / ゾク" },
+                    { "label": "Meaning", "content": "To continue" },
+                    { "label": "Example", "content": "続ける (つづける) - To continue\n手続き (てつづき) - procedure" }
+                ]
+            }
+        ]
+    },
+    {
+        "lesson": 21,
+        "title": "GENKI - Lesson 21 Kanji",
+        "description": "厄年 - Unlucky Ages",
+        "folder": "GENKI Kanji (Japanese)",
+        "cards":[
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "信" },
+                    { "label": "Readings", "content": "シン" },
+                    { "label": "Meaning", "content": "to trust, to believe" },
+                    { "label": "Example", "content": "信じる (しんじる) - To believe\n自信 (じしん) - Confidence" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "経" },
+                    { "label": "Readings", "content": "ケイ" },
+                    { "label": "Meaning", "content": "to pass through" },
+                    { "label": "Example", "content": "経験 (けいけん) - Experience\n経済 (けいざい) - Economy" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "台" },
+                    { "label": "Readings", "content": "タイ、ダイ" },
+                    { "label": "Meaning", "content": "Stand" },
+                    { "label": "Example", "content": "台風 (たいふう) - typhoon\n二台 (にだい) - Two vehicles/machines/etc." }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "風" },
+                    { "label": "Readings", "content": "かぜ / フウ、フ" },
+                    { "label": "Meaning", "content": "Wind" },
+                    { "label": "Example", "content": "台風 (たいふう) - typhoon\nお風呂 (おふろ) - Bath" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "犬" },
+                    { "label": "Readings", "content": "いぬ / ケン" },
+                    { "label": "Meaning", "content": "Dog" },
+                    { "label": "Example", "content": "犬 (いぬ) - Dog\n子犬 (こいぬ) - Puppy" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "重" },
+                    { "label": "Readings", "content": "おも、かさ / ジュウ、チョウ" },
+                    { "label": "Meaning", "content": "Heavy, to pile up" },
+                    { "label": "Example", "content": "重い (おもい) - Heavy, serious (illness)\n重ねる (かさねる) - To pile up" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "初" },
+                    { "label": "Readings", "content": "はじ、はつ / ショ" },
+                    { "label": "Meaning", "content": "First" },
+                    { "label": "Example", "content": "初めて (はじめて) - first time\n初めは (はじめは) - at first" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "若" },
+                    { "label": "Readings", "content": "わか" },
+                    { "label": "Meaning", "content": "Young" },
+                    { "label": "Example", "content": "若者 (わかもの) - Young person\n若い (わかい) - Young" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "送" },
+                    { "label": "Readings", "content": "おく / ソウ" },
+                    { "label": "Meaning", "content": "To send" },
+                    { "label": "Example", "content": "送る (おくる) - To send\n送金 (そうきん) - sending money" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "幸" },
+                    { "label": "Readings", "content": "さいわ、しあわ / コウ" },
+                    { "label": "Meaning", "content": "Happiness" },
+                    { "label": "Example", "content": "幸せな (しあわせな) - happy\n幸福な (こうふくな) - happy" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "計" },
+                    { "label": "Readings", "content": "はか / ケイ" },
+                    { "label": "Meaning", "content": "To Measure" },
+                    { "label": "Example", "content": "時計 (とけい) - watch, clock\n計画 (けいかく) - Plan" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "遅" },
+                    { "label": "Readings", "content": "おそ、おく / チ" },
+                    { "label": "Meaning", "content": "Late" },
+                    { "label": "Example", "content": "遅れる (おくれる) - to be late\n乗り遅れる (のりおくれる) - to miss (transportation)" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "配" },
+                    { "label": "Readings", "content": "くば / ハイ、バイ" },
+                    { "label": "Meaning", "content": "To deliver" },
+                    { "label": "Example", "content": "心配な (しんぱいな) - worried about\n配る (くばる) - To distribute" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "弟" },
+                    { "label": "Readings", "content": "おとうと / ダイ、デ" },
+                    { "label": "Meaning", "content": "Younger Brother" },
+                    { "label": "Example", "content": "弟 (おとうと) - Younger brother\n兄弟 (きょうだい) - Brothers" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "妹" },
+                    { "label": "Readings", "content": "いもうと / マイ" },
+                    { "label": "Meaning", "content": "Younger Sister" },
+                    { "label": "Example", "content": "妹 (いもうと) - Younger sister\n姉妹 (しまい) - Sisters" }
+                ]
+            }
+        ]
+    },
+    {
+        "lesson": 22,
+        "title": "GENKI - Lesson 21 Kanji",
+        "description": "桜さんの日記 - Sakura's Diary",
+        "folder": "GENKI Kanji (Japanese)",
+        "cards":[
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "記" },
+                    { "label": "Readings", "content": "キ" },
+                    { "label": "Meaning", "content": "To write down" },
+                    { "label": "Example", "content": "日記 (にっき) - Diary\n記入する (きにゅうする) - To fill in" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "銀" },
+                    { "label": "Readings", "content": "ギン" },
+                    { "label": "Meaning", "content": "Silver" },
+                    { "label": "Example", "content": "銀行 (ぎんこう) - Bank\n銀メダル (ぎんメダル) - Silver medal" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "回" },
+                    { "label": "Readings", "content": "まわ / カイ" },
+                    { "label": "Meaning", "content": "...times, to turn" },
+                    { "label": "Example", "content": "一回 (いっかい) - One time\n回送バス (かいそうばす) - out-of-service bus" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "夕" },
+                    { "label": "Readings", "content": "ゆう" },
+                    { "label": "Meaning", "content": "Evening" },
+                    { "label": "Example", "content": "夕方 (ゆうがた) - Evening\n夕食 (ゆうしょく) - Dinner" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "黒" },
+                    { "label": "Readings", "content": "くろ / コク" },
+                    { "label": "Meaning", "content": "Black" },
+                    { "label": "Example", "content": "黒木さん (くろきさん) - Mr./Ms Kuroki\n黒い (くろい) - black" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "用" },
+                    { "label": "Readings", "content": "ヨウ" },
+                    { "label": "Meaning", "content": "To use, task" },
+                    { "label": "Example", "content": "用事 (ようじ) - a thing to take care of\n用意する (よういする) - To prepare" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "末" },
+                    { "label": "Readings", "content": "すえ / マツ" },
+                    { "label": "Meaning", "content": "the end of" },
+                    { "label": "Example", "content": "週末 (しゅうまつ) - weekend\n月末 (げつまつ) - end of the month" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "待" },
+                    { "label": "Readings", "content": "ま、まち / タイ" },
+                    { "label": "Meaning", "content": "To wait" },
+                    { "label": "Example", "content": "待つ (まつ) - To wait\n待機室 (たいきしつ) - waiting room" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "残" },
+                    { "label": "Readings", "content": "のこ / ザン" },
+                    { "label": "Meaning", "content": "To remain" },
+                    { "label": "Example", "content": "残業 (ざんぎょう) - Overtime work\n残す (のこす) - To leave" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "駅" },
+                    { "label": "Readings", "content": "エキ" },
+                    { "label": "Meaning", "content": "Station" },
+                    { "label": "Example", "content": "駅 (えき) - Station\n東京駅 (とうきょうえき) - Tokyo Station" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "番" },
+                    { "label": "Readings", "content": "バン" },
+                    { "label": "Meaning", "content": "Number, order" },
+                    { "label": "Example", "content": "一番 (いちばん) - the first\n番号 (ばんごう) - Number" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "説" },
+                    { "label": "Readings", "content": "セツ、セッ" },
+                    { "label": "Meaning", "content": "to explain, theory" },
+                    { "label": "Example", "content": "説明する (せつめいする) - to explain\n小説 (しょうせつ) - Novel" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "案" },
+                    { "label": "Readings", "content": "アン" },
+                    { "label": "Meaning", "content": "idea, proposal" },
+                    { "label": "Example", "content": "案内する (あんないする) - to guide\n案内所 (あんないじょ) - Information desk" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "内" },
+                    { "label": "Readings", "content": "うち / ナイ" },
+                    { "label": "Meaning", "content": "inside, inner" },
+                    { "label": "Example", "content": "案内する (あんないする) - to guide\n家内 (かない) - my wife" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "忘" },
+                    { "label": "Readings", "content": "わす / ボウ" },
+                    { "label": "Meaning", "content": "To forget" },
+                    { "label": "Example", "content": "忘れる (わすれる) - To forget\n忘れ物 (わすれもの) - lost article" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "守" },
+                    { "label": "Readings", "content": "まも / ス、シュ" },
+                    { "label": "Meaning", "content": "To protect, to keep" },
+                    { "label": "Example", "content": "守る (まもる) - To keep (a promise)\n留守 (るす) - absence, not at home" }
+                ]
+            }
+        ]
+    },
+    {"lesson": 23,
+        "title": "GENKI - Lesson 23 Kanji",
+        "description": "顔文字と絵文字 - Emoticons and Emoji",
+        "folder": "GENKI Kanji (Japanese)",
+        "cards":[
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "顔" },
+                    { "label": "Readings", "content": "かお、がお / ガン" },
+                    { "label": "Meaning", "content": "Face" },
+                    { "label": "Example", "content": "顔 (かお) - Face\n顔文字 (かおもじ) - emoticon" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "悲" },
+                    { "label": "Readings", "content": "かな / ヒ" },
+                    { "label": "Meaning", "content": "Sad" },
+                    { "label": "Example", "content": "悲しい (かなしい) - Sad\n悲劇 (ひげき) - Tragedy" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "怒" },
+                    { "label": "Readings", "content": "いか、おこ / ド" },
+                    { "label": "Meaning", "content": "to get angry" },
+                    { "label": "Example", "content": "怒る (おこる) - To get angry\n怒り (いかり) - Anger, rage" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "違" },
+                    { "label": "Readings", "content": "ちが / イ" },
+                    { "label": "Meaning", "content": "to differ" },
+                    { "label": "Example", "content": "違う (ちがう) - different\n違い (ちがい) - Difference" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "変" },
+                    { "label": "Readings", "content": "か / ヘン" },
+                    { "label": "Meaning", "content": "Change, abnormal" },
+                    { "label": "Example", "content": "変な (へんな) - strange\n大変な (たいへんな) - tough, hectic" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "比" },
+                    { "label": "Readings", "content": "くら / ヒ" },
+                    { "label": "Meaning", "content": "To compare" },
+                    { "label": "Example", "content": "比べる (くらべる) - To compare\n比較 (ひかく) - Comparison" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "情" },
+                    { "label": "Readings", "content": "なさ / ジョウ" },
+                    { "label": "Meaning", "content": "Emotion, condition" },
+                    { "label": "Example", "content": "表情 (ひょうじょう) - expression\n同情する (どうじょうする) - To sympathize" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "感" },
+                    { "label": "Readings", "content": "カン" },
+                    { "label": "Meaning", "content": "to sense, to feel" },
+                    { "label": "Example", "content": "感情 (かんじょう) - expression\n感動する (かんどうする) - To be moved" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "調" },
+                    { "label": "Readings", "content": "しら / チョウ" },
+                    { "label": "Meaning", "content": "to investigate" },
+                    { "label": "Example", "content": "調査 (ちょうさ) - survey, research\n調べる (to look into) - to look into" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "査" },
+                    { "label": "Readings", "content": "サ" },
+                    { "label": "Meaning", "content": "to inspect" },
+                    { "label": "Example", "content": "調査 (ちょうさ) - survey, research\n検査 (けんさ) - inspection" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "果" },
+                    { "label": "Readings", "content": "は / カ" },
+                    { "label": "Meaning", "content": "fruit, result" },
+                    { "label": "Example", "content": "結果 (けっか) - result\n果物 (かもの) - fruit" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "化" },
+                    { "label": "Readings", "content": "ば / ケ、カ" },
+                    { "label": "Meaning", "content": "To change into" },
+                    { "label": "Example", "content": "文化 (ぶんか) - culture\n化学 (かがく) - Chemistry" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "横" },
+                    { "label": "Readings", "content": "よこ / オウ" },
+                    { "label": "Meaning", "content": "sideways" },
+                    { "label": "Example", "content": "横 (よこ) - Side\n横書き (よこがき) - horizontal writing" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "相" },
+                    { "label": "Readings", "content": "あい / ショウ、ソウ" },
+                    { "label": "Meaning", "content": "mutual" },
+                    { "label": "Example", "content": "相手 (あいて) - partner\n首相 (しゅしょう) - Prime Minister" }
+                ]
+            },
+            {
+                "facets": [
+                    { "label": "Kanji", "content": "答" },
+                    { "label": "Readings", "content": "こた、こたえ / トウ" },
+                    { "label": "Meaning", "content": "answer" },
+                    { "label": "Example", "content": "答える (こたえる) - to answer\n答え/答 (こたえ) - answer" }
+                ]
+            }
+        ]
+    }
+]
