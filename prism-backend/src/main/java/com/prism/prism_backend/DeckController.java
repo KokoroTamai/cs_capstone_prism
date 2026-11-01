@@ -18,7 +18,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("/api/decks")
-@CrossOrigin(origins = "http://localhost:5173")
+@CrossOrigin(originPatterns = {"http://localhost:5173", "https://*.vercel.app"}, allowedHeaders = "*", allowCredentials = "true")
 public class DeckController {
 
     private final DeckRepository deckRepository;
