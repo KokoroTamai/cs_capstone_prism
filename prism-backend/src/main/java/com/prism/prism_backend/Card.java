@@ -36,7 +36,6 @@ public class Card {
     @JsonBackReference(value = "deck-cards")
     private Deck deck;
 
-    // ★ fetch = FetchType.LAZY に変更
     @OneToMany(mappedBy = "card", cascade = CascadeType.ALL, orphanRemoval = true, fetch = FetchType.LAZY)
     @OrderBy("facetOrder ASC")
     @JsonManagedReference

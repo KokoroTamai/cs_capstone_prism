@@ -56,7 +56,7 @@ public class InitialDataService {
     @Transactional
     public void assignPrebuiltDeckToUser(UUID newUserId) {
         if (folderRepository.existsByUserIdAndName(newUserId, "GENKI Kanji")) {
-            log.info("既に GENKI Kanji を所持しているためアサインをスキップします (userId: {})", newUserId);
+            log.info("Skip assigning GENKI Kanji folder (userId: {})", newUserId);
             return;
         }
 
@@ -75,9 +75,9 @@ public class InitialDataService {
             deckRepository.saveAll(decks);
 
             long duration = System.currentTimeMillis() - startTime;
-            log.info("プールからデッキを即時割り当て完了 ({}ms, userId: {})", duration, newUserId);
+            log.info("Finished assigning GENKI Kanji Folder from the pool ({}ms, userId: {})", duration, newUserId);
         } else {
-            log.warn("プール在庫切れのため同期作成を実行します (userId: {})", newUserId);
+            log.warn("Pool inventory is depleted, creating data synchronously (userId: {})", newUserId);
             createGenkiData(newUserId);
         }
 
@@ -107,11 +107,11 @@ public class InitialDataService {
                 if (currentPool.size() >= TARGET_POOL_SIZE) {
                     break;
                 }
-                log.info("プール在庫補充を実行中... (現在: {} / 目標: {})", currentPool.size(), TARGET_POOL_SIZE);
+                log.info("Pool inventory replenishment in progress... (Current: {} / Target: {})", currentPool.size(), TARGET_POOL_SIZE);
                 createGenkiData(null);
             }
         } catch (Exception e) {
-            log.error("プール在庫補充処理中にエラーが発生しました", e);
+            log.error("An error occurred while replenishing the pool inventory", e);
         } finally {
             isReplenishing.set(false);
         }
@@ -123,7 +123,7 @@ public class InitialDataService {
     @Async
     public void replenishPoolAsync() {
         if (!isReplenishing.compareAndSet(false, true)) {
-            log.info("すでにプール補充処理が実行中のためスキップします。");
+            log.info("already in progress, skipping...");
             return;
         }
 
@@ -133,15 +133,15 @@ public class InitialDataService {
                 int currentCount = currentPool.size();
 
                 if (currentCount >= TARGET_POOL_SIZE) {
-                    log.info("プール在庫が十分あります (現在: {} / 目標: {})", currentCount, TARGET_POOL_SIZE);
+                    log.info("Pool inventory is sufficient (Current: {} / Target: {})", currentCount, TARGET_POOL_SIZE);
                     break;
                 }
 
-                log.info("プール在庫を補充中... (現在: {} / 目標: {})", currentCount, TARGET_POOL_SIZE);
+                log.info("Replenishing pool inventory... (Current: {} / Target: {})", currentCount, TARGET_POOL_SIZE);
                 createGenkiData(null);
             }
         } catch (Exception e) {
-            log.error("プール補充中にエラーが発生しました: {}", e.getMessage(), e);
+            log.error("An error occurred while replenishing the pool inventory: {}", e.getMessage(), e);
         } finally {
             isReplenishing.set(false);
         }

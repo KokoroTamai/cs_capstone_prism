@@ -57,7 +57,7 @@ public class FolderController {
 
         return folderRepository.findById(id).map(folder -> {
             if (!java.util.Objects.equals(folder.getUserId(), userId)) {
-                return ResponseEntity.status(HttpStatus.FORBIDDEN).body("権限がありません");
+                return ResponseEntity.status(HttpStatus.FORBIDDEN).body("You do not have authority to edit this folder");
             }
             String name = payload.get("name");
             if (name != null && !name.trim().isEmpty()) {
@@ -87,7 +87,7 @@ public class FolderController {
         var folder = folderOpt.get();
 
         if (!java.util.Objects.equals(folder.getUserId(), userId)) {
-            return ResponseEntity.status(HttpStatus.FORBIDDEN).body("You do not have authority to delete the deck");
+            return ResponseEntity.status(HttpStatus.FORBIDDEN).body("You do not have authority to delete the folder");
         }
 
         if (deleteDecks) {

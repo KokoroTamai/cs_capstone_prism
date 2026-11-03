@@ -50,11 +50,11 @@ public class DeckController {
             @RequestBody DeckCreateRequest request) {
 
         if (userIdHeader == null || userIdHeader.trim().isEmpty()) {
-            return ResponseEntity.status(HttpStatus.UNAUTHORIZED).body("ユーザー認証が必要です");
+            return ResponseEntity.status(HttpStatus.UNAUTHORIZED).body("User Authentication is required");
         }
 
         if (request.getTitle() == null || request.getTitle().trim().isEmpty()) {
-            return ResponseEntity.badRequest().body("タイトルは必須です");
+            return ResponseEntity.badRequest().body("Title is required");
         }
 
         UUID userId = UUID.fromString(userIdHeader);
@@ -116,7 +116,7 @@ public class DeckController {
         try {
             userId = UUID.fromString(userIdHeader);
         } catch (IllegalArgumentException e) {
-            return ResponseEntity.status(HttpStatus.BAD_REQUEST).body("無効なユーザーIDです");
+            return ResponseEntity.status(HttpStatus.BAD_REQUEST).body("Invalid user ID");
         }
 
         var deckOpt = deckRepository.findById(id);
@@ -125,7 +125,7 @@ public class DeckController {
         }
 
         if (!java.util.Objects.equals(deckOpt.get().getUserId(), userId)) {
-            return ResponseEntity.status(HttpStatus.FORBIDDEN).body("このデッキを削除する権限がありません");
+            return ResponseEntity.status(HttpStatus.FORBIDDEN).body("You are not the owner of this deck");
         }
 
         deckRepository.deleteByIdAndUserIdDirectly(id, userId);

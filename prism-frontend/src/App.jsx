@@ -122,7 +122,7 @@ export default function App() {
   // Web Speech API 音声読み上げ
   const speakFacet = (facetOrText, deckLanguage = null) => {
     if (!('speechSynthesis' in window)) {
-      alert('お使いのブラウザは音声合成に対応していません');
+      alert('You browser does not support speech synthesis.');
       return;
     }
 
@@ -323,7 +323,7 @@ export default function App() {
 
       if (isCreatingNewFolderForCreate) {
         if (!newFolderNameForCreate.trim()) {
-          alert('新規フォルダー名を入力してください');
+          alert('Please enter a name for the new folder.');
           return;
         }
 
@@ -336,7 +336,7 @@ export default function App() {
           user.id
         );
 
-        if (!folderRes.ok) throw new Error('フォルダーの新規作成に失敗しました');
+        if (!folderRes.ok) throw new Error('Failed to create the new folder.');
         const createdFolder = await folderRes.json();
         setFolders((prev) => [...prev, createdFolder]);
         targetFolderId = String(createdFolder.id);
@@ -401,7 +401,7 @@ export default function App() {
 
       if (isCreatingNewFolder) {
         if (!newFolderName.trim()) {
-          alert('新規フォルダー名を入力してください');
+          alert('Please enter a name for the new folder.');
           return;
         }
 
@@ -414,7 +414,7 @@ export default function App() {
           user.id
         );
 
-        if (!folderRes.ok) throw new Error('フォルダーの新規作成に失敗しました');
+        if (!folderRes.ok) throw new Error('Failed to create the new folder.');
         const createdFolder = await folderRes.json();
         setFolders((prev) => [...prev, createdFolder]);
         targetFolderId = String(createdFolder.id);
@@ -439,7 +439,7 @@ export default function App() {
       setDecks((prev) => prev.map((d) => (d.id === updated.id ? updated : d)));
       setIsDeckEditModalOpen(false);
     } catch (error) {
-      console.error('デッキ更新エラー:', error);
+      console.error('Failed to update the deck:', error);
       alert('Failed to update the deck');
     }
   };
@@ -647,14 +647,14 @@ export default function App() {
       setFolders((prev) => prev.map((f) => (f.id === updated.id ? updated : f)));
       setIsFolderEditModalOpen(false);
     } catch (err) {
-      console.error('フォルダー名更新エラー:', err);
-      alert('フォルダー名の更新に失敗しました');
+      console.error('Failed to update the folder name:', err);
+      alert('Failed to update the folder name');
     }
   };
 
   const handleDeleteFolderAndDecks = async (folderId) => {
     if (!user?.id) return;
-    if (!window.confirm('⚠️ 警告: フォルダーと、中に含まれるすべてのデッキ・カードが完全に削除されます。\n本当に削除しますか？')) return;
+    if (!window.confirm('⚠️ Warning: The folder and all its decks and cards will be permanently deleted.\nAre you sure you want to delete it?')) return;
 
     try {
       const res = await authFetch(
@@ -670,8 +670,8 @@ export default function App() {
       setActiveMenuFolderId(null);
       if (selectedFolderId === folderId) setSelectedFolderId(null);
     } catch (err) {
-      console.error('フォルダー・デッキ削除エラー:', err);
-      alert('フォルダーとデッキの削除に失敗しました');
+      console.error('Failed to delete the folder and its decks:', err);
+      alert('Failed to delete the folder and its decks');
     }
   };
 

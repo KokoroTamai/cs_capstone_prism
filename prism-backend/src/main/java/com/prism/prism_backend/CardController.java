@@ -61,11 +61,11 @@ public class CardController {
 
         UUID userId = parseUserId(userIdHeader);
         if (userId == null) {
-            return ResponseEntity.status(HttpStatus.UNAUTHORIZED).body("ユーザー認証が必要です");
+            return ResponseEntity.status(HttpStatus.UNAUTHORIZED).body("User Authentication is required");
         }
 
         if (request.getDeckId() == null) {
-            return ResponseEntity.badRequest().body("デッキIDは必須です");
+            return ResponseEntity.badRequest().body("Deck ID is required");
         }
 
         var deckOpt = deckRepository.findById(request.getDeckId());
@@ -76,7 +76,7 @@ public class CardController {
         Deck deck = deckOpt.get();
         // 他人のデッキにはカードを追加できないよう制御
         if (!Objects.equals(deck.getUserId(), userId)) {
-            return ResponseEntity.status(HttpStatus.FORBIDDEN).body("このデッキにカードを追加する権限がありません");
+            return ResponseEntity.status(HttpStatus.FORBIDDEN).body("You are not the owner of this deck");
         }
 
         Card card = new Card();
@@ -108,7 +108,7 @@ public class CardController {
 
         UUID userId = parseUserId(userIdHeader);
         if (userId == null) {
-            return ResponseEntity.status(HttpStatus.UNAUTHORIZED).body("ユーザー認証が必要です");
+            return ResponseEntity.status(HttpStatus.UNAUTHORIZED).body("User Authentication is required");
         }
 
         var cardOpt = cardRepository.findById(id);
@@ -119,7 +119,7 @@ public class CardController {
         Card card = cardOpt.get();
         // カードが属するデッキの所有者かチェック
         if (card.getDeck() != null && !Objects.equals(card.getDeck().getUserId(), userId)) {
-            return ResponseEntity.status(HttpStatus.FORBIDDEN).body("このカードを編集する権限がありません");
+            return ResponseEntity.status(HttpStatus.FORBIDDEN).body("You are not the owner of this card's deck");
         }
 
         // 既存の面をクリアして再設定
@@ -148,7 +148,7 @@ public class CardController {
 
         UUID userId = parseUserId(userIdHeader);
         if (userId == null) {
-            return ResponseEntity.status(HttpStatus.UNAUTHORIZED).body("ユーザー認証が必要です");
+            return ResponseEntity.status(HttpStatus.UNAUTHORIZED).body("User Authentication is required");
         }
 
         var cardOpt = cardRepository.findById(id);
@@ -159,7 +159,7 @@ public class CardController {
         Card card = cardOpt.get();
         // カードが属するデッキの所有者かチェック
         if (card.getDeck() != null && !Objects.equals(card.getDeck().getUserId(), userId)) {
-            return ResponseEntity.status(HttpStatus.FORBIDDEN).body("このカードを削除する権限がありません");
+            return ResponseEntity.status(HttpStatus.FORBIDDEN).body("You are not the owner of this card's deck");
         }
 
         cardRepository.delete(card);
